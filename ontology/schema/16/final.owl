@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#"
+     xml:base="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:ns="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:wot="http://xmlns.com/wot/0.1/"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:schema="http://purl.org/vocab/aiiso/schema#">
+    <owl:Ontology>
+        <owl:imports rdf:resource="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#email -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#email"/>
+    
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#username -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#username"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00000 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00000">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2000/10/swap/pim/contact#Person"/>
+        <rdfs:label>Student</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00002 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00002">
+        <rdf:type rdf:resource="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00000"/>
+        <email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">marko@gmail.com</email>
+        <username rdf:datatype="http://www.w3.org/2001/XMLSchema#string">marko98</username>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Marko</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Markovic</foaf:lastName>
+        <rdfs:label>Marko Markovic (student)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00007 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00007">
+        <rdf:type rdf:resource="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00000"/>
+        <email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">janko@gmai.com</email>
+        <username rdf:datatype="http://www.w3.org/2001/XMLSchema#string">janko98</username>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Janko</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jankovic</foaf:lastName>
+        <rdfs:label>Janko Jankovic (student)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00008 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00008">
+        <rdf:type rdf:resource="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00000"/>
+        <email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">petar@gmail.com</email>
+        <username rdf:datatype="http://www.w3.org/2001/XMLSchema#string">petar99</username>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Petar</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Petrovic</foaf:lastName>
+        <rdfs:label>Petar Petrovic (student)</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00010 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00010">
+        <rdf:type rdf:resource="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21#00000"/>
+        <email rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ranko@gmail.com</email>
+        <username rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ranko00</username>
+        <foaf:firstName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ranko</foaf:firstName>
+        <foaf:lastName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Petrovic</foaf:lastName>
+        <rdfs:label>Ranko Rankovic (student)</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.org/vocab/aiiso/schema#" uri="schema-20080925.rdf"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="http://purl.org/vocab/aiiso/schema" uri="schema-20080925.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="duplicate:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="End.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="duplicate:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="0307.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="duplicate:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="new.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="duplicate:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="1.0.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="duplicate:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="1.5.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="duplicate:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="duplicate:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="final.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="duplicate:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="1.1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="duplicate:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="1.7.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="duplicate:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="1.3.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="duplicate:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="final_for_tommorow.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="http://www.semanticweb.org/qndaa/ontologies/2022/0/untitled-ontology-21" uri="16/final.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="shadowed:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="16/new_3.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="shadowed:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="16/new_final..owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="shadowed:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="16/new_1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="shadowed:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="16/new.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="shadowed:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="16/new_2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1642433782266" name="shadowed:http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11" uri="16/new_4.owl"/>
+    </group>
+</catalog>

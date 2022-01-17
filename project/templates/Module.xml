@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11#"
+         xml:base="http://www.semanticweb.org/qndaa/ontologies/2021/11/untitled-ontology-11"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:ns="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:wot="http://xmlns.com/wot/0.1/"
+         xmlns:xml="http://www.w3.org/XML/1998/namespace"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:vann="http://purl.org/vocab/vann/"
+         xmlns:terms="http://purl.org/dc/terms/"
+         xmlns:schema="http://purl.org/vocab/aiiso/schema#"
+         xmlns:my-ontology-11="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11">
+        <owl:imports rdf:resource="http://purl.org/vocab/aiiso/schema#"/>
+        <owl:imports rdf:resource="http://xmlns.com/foaf/0.1/"/>
+    </owl:Ontology>
+
+
+    <!--
+///////////////////////////////////////////////////////////////////////////////////////
+//
+// Data properties
+//
+///////////////////////////////////////////////////////////////////////////////////////
+ -->
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#espb -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#espb"/>
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#font_auditing_exercises -->
+
+    <owl:DatatypeProperty
+            rdf:about="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#font_auditing_exercises"/>
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#lecture_font -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#lecture_font"/>
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#main_url -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#main_url"/>
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#other -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#other"/>
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#other_forms_of_teaching -->
+
+    <owl:DatatypeProperty
+            rdf:about="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#other_forms_of_teaching"/>
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#phone_number -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#phone_number"/>
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#professor_type -->
+
+    <owl:DatatypeProperty
+            rdf:about="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#professor_type"/>
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#semester -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#semester"/>
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#url -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#url"/>
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#year -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#year"/>
+    <!--
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    <!-- http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#00005 -->
+
+
+    {% for i in subjects %}
+    <owl:NamedIndividual rdf:about="{{'http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#' + i[0] + '-' + i[1]}}">
+        <rdf:type rdf:resource="http://purl.org/vocab/aiiso/schema#Subject"/>
+        <schema:part_of rdf:resource="{{'http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#' + i[9]}}"/>
+        <schema:name>{{i[1]}}</schema:name>
+        <my-ontology-11:espb rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">{{i[6]}}</my-ontology-11:espb>
+        <my-ontology-11:font_auditing_exercises rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">{{i[3]}}</my-ontology-11:font_auditing_exercises>
+        <my-ontology-11:lecture_font rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">{{i[2]}}</my-ontology-11:lecture_font>
+        <my-ontology-11:semester rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{i[8]}}</my-ontology-11:semester>
+        <my-ontology-11:year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">{{i[7]}}</my-ontology-11:year>
+        <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{i[1]}}</schema:name>
+    </owl:NamedIndividual>
+
+
+    {% endfor %}
+
+    {% for i in programs %}
+    <owl:NamedIndividual rdf:about="{{'http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#' + i[1]}}">
+        <rdf:type rdf:resource="http://purl.org/vocab/aiiso/schema#Module"/>
+        <my-ontology-11:main_url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{i[3]}}</my-ontology-11:main_url>
+        <my-ontology-11:url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{i[2]}}</my-ontology-11:url>
+        <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{i[1]}}</schema:name>
+    </owl:NamedIndividual>
+
+    {% endfor %}
+
+
+    {% for i in persons %}
+     <owl:NamedIndividual rdf:about="{{'http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#' + i[1]}}">
+        <rdf:type rdf:resource="http://www.w3.org/2000/10/swap/pim/contact#Person"/>
+        <schema:responsibleFor rdf:resource="{{'http://www.semanticweb.org/qndaa/ontologies/2021/11/my-ontology-11#' + i[7]}}"/>
+        <my-ontology-11:main_url rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{i[2]}}</my-ontology-11:main_url>
+        <my-ontology-11:phone_number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{i[5]}}</my-ontology-11:phone_number>
+        <my-ontology-11:professor_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{i[4]}}</my-ontology-11:professor_type>
+        <schema:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">{{i[1]}}</schema:name>
+        <rdfs:label xml:lang="en">{{i[1]}}</rdfs:label>
+    </owl:NamedIndividual>
+    {% endfor %}
+
+
+</rdf:RDF>
+
+
+        <!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->

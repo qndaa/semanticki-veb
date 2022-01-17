@@ -1,0 +1,899 @@
+1,Matematika,3,2,0,1.00,7,1,Zimski,Arhitektura
+2,Nacrtna geometrija 1,2,2,0,0.00,4,1,Zimski,Arhitektura
+3,"Konstrukcije, materijali i građenje",4,1,0,0.00,5,1,Zimski,Arhitektura
+4,Elementi i sklopovi zgrada 1,3,3,0,0.00,5,1,Zimski,Arhitektura
+5,"Arhitektonska analiza, funkcije i tipologija 1",2,3,0,0.00,5,1,Zimski,Arhitektura
+6,Uvod u arhitektonski dizajn,1,3,0,0.00,4,1,Zimski,Arhitektura
+7,Nacrtna geometrija 2,2,2,0,0.00,4,1,Letnji,Arhitektura
+8,Umetnost u kontekstu 1,2,0,0,0.00,2,1,Letnji,Arhitektura
+9,Elementi i sklopovi zgrada 2,3,2,0,0.00,4,1,Letnji,Arhitektura
+10,"Arhitektonska analiza, funkcije i tipologija 2",2,3,0,0.00,5,1,Letnji,Arhitektura
+11,Uvod u istoriju arhitekture,2,0,0,0.00,2,1,Letnji,Arhitektura
+12,Uvod u arhitektonsko projektovanje,1,2,0,1.00,4,1,Letnji,Arhitektura
+13,Slobodoručno crtanje,1,2,0,0.00,2,1,Letnji,Arhitektura
+14,Arhitektonske reprezentacije 1,1,0,2,0.00,4,1,Letnji,Arhitektura
+15,Osnove tehnologije izvođenja radova,2,0,0,0.00,3,1,Letnji,Arhitektura
+16,Umetnost u kontekstu 2,2,0,0,0.00,2,2,Zimski,Arhitektura
+17,Uvod u urbanizam,2,3,0,0.00,5,2,Zimski,Arhitektura
+18,Arhitektonske tehnologije,2,2,0,0.00,4,2,Zimski,Arhitektura
+19,Stanovanje 1,2,3,0,1.00,5,2,Zimski,Arhitektura
+20,Arhitektura i grad srednjeg veka,2,0,0,0.00,2,2,Zimski,Arhitektura
+21,Mehanika,2,2,0,0.00,4,2,Zimski,Arhitektura
+22,Arhitektonske reprezentacije 2,1,0,3,0.00,5,2,Zimski,Arhitektura
+23,Izborna pozicija 1,1,2,0,0.00,3,2,Zimski,Arhitektura
+24,Umetnost u kontekstu 3,2,0,0,0.00,2,2,Letnji,Arhitektura
+25,Arhitektonska fizika,2,0,1,1.00,4,2,Letnji,Arhitektura
+26,Arhitektura i grad novog doba,2,0,0,0.00,2,2,Letnji,Arhitektura
+27,Otpornost materijala,2,2,0,1.00,5,2,Letnji,Arhitektura
+28,Stanovanje 2,2,3,0,1.00,5,2,Letnji,Arhitektura
+29,Grafički dizajn,1,0,2,0.00,3,2,Letnji,Arhitektura
+30,Upravljanje projektima i građenjem,2,0,0,0.00,3,2,Letnji,Arhitektura
+31,Izborna pozicija 2,3,2,0,1.00,6,2,Letnji,Arhitektura
+32,"Arhitektura, umetnost i kultura modernog doba 1",2,0,0,0.00,2,3,Zimski,Arhitektura
+33,Izborna pozicija 3,3,2,0,0.00,5,3,Zimski,Arhitektura
+34,Konstrukcijski sistemi,2,1,0,0.00,5,3,Zimski,Arhitektura
+35,Optimizacione i upravljačke tehnologije u arhitektonskom projektovanju 1,2,2,0,0.00,5,3,Zimski,Arhitektura
+36,Izborna pozicija 4,2,0,0,1.00,3,3,Zimski,Arhitektura
+37,Izborna pozicija 5,7,3,3,0.00,10,3,Zimski,Arhitektura
+38,"Arhitektura, umetnost i kultura modernog doba 2",2,0,0,0.00,2,3,Letnji,Arhitektura
+39,Razvoj regionalne arhitekture,2,0,0,0.00,2,3,Letnji,Arhitektura
+40,Noseće konstrukcije 1,2,2,0,0.00,6,3,Letnji,Arhitektura
+41,Izborna pozicija 6,4,4,0,0.00,7,3,Letnji,Arhitektura
+42,Izborna pozicija 7,4,2,2,0.00,7,3,Letnji,Arhitektura
+43,Izborna pozicija 8,2,0,0,0.00,2,3,Letnji,Arhitektura
+44,Izborna pozicija 9,2,2,0,0.00,4,3,Letnji,Arhitektura
+45,Arhitektura XXI veka,2,0,0,0.00,3,4,Zimski,Arhitektura
+46,Vizuelna umetnost XXI veka,2,0,0,0.00,2,4,Zimski,Arhitektura
+47,Noseće konstrukcije 2,1,1,0,0.00,3,4,Zimski,Arhitektura
+48,Graditeljsko nasleđe/obnova i zaštita 1,2,2,0,0.00,4,4,Zimski,Arhitektura
+49,Izborna pozicija 10,2,0,0,1.00,3,4,Zimski,Arhitektura
+50,Izborna pozicija 11,5,3,3,0.00,9,4,Zimski,Arhitektura
+51,Stručna praksa,0,0,0,6.00,6,4,Zimski,Arhitektura
+52,Graditeljsko nasleđe/obnova i zaštita 2,2,2,0,1.00,4,4,Letnji,Arhitektura
+53,Izborna pozicija 12,7,4,0,0.00,10,4,Letnji,Arhitektura
+54,Izborna pozicija 13,1,0-2,0-2,0.00,3,4,Letnji,Arhitektura
+55,Izborna pozicija 14,1-3,1-3,0,0.00,3,4,Letnji,Arhitektura
+56,Diplomski rad - istraživački rad,0,0,0,0.00,5,4,Letnji,Arhitektura
+57,Diplomski rad - izrada i odbrana,0,0,0,3.00,5,4,Letnji,Arhitektura
+58,Matematika 1,4,4,0,0.00,8,1,Zimski,Biomedicinsko inženjerstvo
+59,Fizika,2,1,1,0.00,4,1,Zimski,Biomedicinsko inženjerstvo
+60,Osnovi elektrotehnike,3,2,1,0.00,6,1,Zimski,Biomedicinsko inženjerstvo
+61,Osnove računarstva i programiranja,3,0,3,0.00,5,1,Zimski,Biomedicinsko inženjerstvo
+62,Mehanika,3,3,0,0.00,7,1,Zimski,Biomedicinsko inženjerstvo
+63,Osnovi elektronike,3,2,0,0.00,5,1,Letnji,Biomedicinsko inženjerstvo
+64,Osnove anatomije za inženjere,2,0,2,0.00,5,1,Letnji,Biomedicinsko inženjerstvo
+65,Osnove računarstva i objektnog programiranja,3,0,3,0.00,5,1,Letnji,Biomedicinsko inženjerstvo
+66,Uvod u signale i sisteme,2,1,2,0.00,5,1,Letnji,Biomedicinsko inženjerstvo
+67,Matematika 2,4,4,0,0.00,8,1,Letnji,Biomedicinsko inženjerstvo
+68,Engleski jezik za inženjere,2,0,0,0.00,2,1,Letnji,Biomedicinsko inženjerstvo
+69,Mikroprocesorski sistemi u medicini,3,0,2,0.00,5,2,Zimski,Biomedicinsko inženjerstvo
+70,Električna i elektronska merenja,2,0,3,0.00,5,2,Zimski,Biomedicinsko inženjerstvo
+71,Osnove biomedicinskog inženjerstva,3,0,2,0.00,5,2,Zimski,Biomedicinsko inženjerstvo
+72,Fiziologija sa patofiziologijom,2,0,2,0.00,5,2,Zimski,Biomedicinsko inženjerstvo
+73,Engleski jezik za biomedicinsko inženjerstvo,2,0,0,0.00,2,2,Zimski,Biomedicinsko inženjerstvo
+74,Digitalna obrada biomedicinskih signala,2,1,1,0.00,4,2,Zimski,Biomedicinsko inženjerstvo
+75,Izborna pozicija 1,2,0,0-2,0.00,4,2,Zimski,Biomedicinsko inženjerstvo
+76,Sistemi automatskog upravljanja,3,2,1,0.00,6,2,Letnji,Biomedicinsko inženjerstvo
+77,Modelovanje i simulacija sistema,3,0,3,0.00,6,2,Letnji,Biomedicinsko inženjerstvo
+78,Biomehanika,4,3,0,0.00,7,2,Letnji,Biomedicinsko inženjerstvo
+79,Rehabilitacioni uređaji i sistemi,3,0,3,0.00,5,2,Letnji,Biomedicinsko inženjerstvo
+80,Materijali i tehnologije izrade elektronskih kola,2,1,2,0.00,6,2,Letnji,Biomedicinsko inženjerstvo
+81,Primena radio i mikrotalasa u medicini,3,2,0,0.00,5,3,Zimski,Biomedicinsko inženjerstvo
+82,Izborna pozicija 2,2,0,2,0.00,4,3,Zimski,Biomedicinsko inženjerstvo
+83,Analiza i obrada biomedicinskih signala,3,2,0,0.00,5,3,Zimski,Biomedicinsko inženjerstvo
+84,Izborna pozicija 3,3,1-2,1-2,0.00,6,3,Zimski,Biomedicinsko inženjerstvo
+85,Biomedicinska instrumentacija,3,0,3,0.00,6,3,Zimski,Biomedicinsko inženjerstvo
+86,Verovatnoća i matematička statistika,2,1,1,0.00,4,3,Zimski,Biomedicinsko inženjerstvo
+87,Biomedicinski inženjering u sportskoj fiziologiji,2,0,2,0.00,5,3,Letnji,Biomedicinsko inženjerstvo
+88,Neuroinženjering,3,0,3,0.00,6,3,Letnji,Biomedicinsko inženjerstvo
+89,Biomehanika neprekidnih sredina,3,1,0,0.00,5,3,Letnji,Biomedicinsko inženjerstvo
+90,Senzori i aktuatori u medicini,3,0,1,0.00,5,3,Letnji,Biomedicinsko inženjerstvo
+91,Izborna pozicija 4,3,0,3,0.00,6,3,Letnji,Biomedicinsko inženjerstvo
+92,Stručna praksa,0,0,0,6.00,3,3,Letnji,Biomedicinsko inženjerstvo
+93,Osnove neuralnih proteza,3,0,3,0.00,6,4,Zimski,Biomedicinsko inženjerstvo
+94,Mašinsko učenje 1,3,0,2,0.00,6,4,Zimski,Biomedicinsko inženjerstvo
+95,Izborna pozicija 5,2,0,2,0.00,4,4,Zimski,Biomedicinsko inženjerstvo
+96,Izborna pozicija 6,2,1,1,0.00,4,4,Zimski,Biomedicinsko inženjerstvo
+97,Izborna pozicija 7,3,0-1,1-2,0.00,5,4,Zimski,Biomedicinsko inženjerstvo
+98,Izborna pozicija 8,2,0,2,0.00,5,4,Zimski,Biomedicinsko inženjerstvo
+99,"Oprema i sistemi za pomoć starim, obolelim i hendikepiranim",3,0,3,0.00,5,4,Letnji,Biomedicinsko inženjerstvo
+100,Obrada slike u medicini,3,0,2,0.00,5,4,Letnji,Biomedicinsko inženjerstvo
+101,Neurorehabilitacioni mikroprocesorski sistemi,3,0,2,0.00,5,4,Letnji,Biomedicinsko inženjerstvo
+102,Izborna pozicija 9,2-3,0-1,1-2,0.00,5,4,Letnji,Biomedicinsko inženjerstvo
+103,Završni rad - istraživački rad,0,0,0,0.00,5,4,Letnji,Biomedicinsko inženjerstvo
+104,Završni rad - izrada i odbrana,0,0,0,4.00,5,4,Letnji,Biomedicinsko inženjerstvo
+105,Algebra,3,4,0,1.00,9,1,Zimski,"Energetika, elektronika i telekomunikacije"
+106,Osnovi elektrotehnike 1,4,4,0,0.00,9,1,Zimski,"Energetika, elektronika i telekomunikacije"
+107,Mehanika,2,2,0,0.00,5,1,Zimski,"Energetika, elektronika i telekomunikacije"
+108,Softverski praktikum,0,0,2,0.00,2,1,Zimski,"Energetika, elektronika i telekomunikacije"
+109,Sociologija tehnike,2,0,0,0.00,3,1,Zimski,"Energetika, elektronika i telekomunikacije"
+110,Engleski jezik - osnovni,2,0,0,0.00,2,1,Zimski,"Energetika, elektronika i telekomunikacije"
+111,Matematička analiza 1,3,4,0,1.00,9,1,Letnji,"Energetika, elektronika i telekomunikacije"
+112,Osnovi elektrotehnike 2,4,4,0,0.00,9,1,Letnji,"Energetika, elektronika i telekomunikacije"
+113,Fizika,3,0,2,0.00,4,1,Letnji,"Energetika, elektronika i telekomunikacije"
+114,Programski jezici i strukture podataka,3,0,3,0.00,6,1,Letnji,"Energetika, elektronika i telekomunikacije"
+115,Engleski jezik - niži srednji,2,0,0,0.00,2,1,Letnji,"Energetika, elektronika i telekomunikacije"
+116,Matematička analiza 1,4,4,0,0.00,9,1,Zimski,Računarstvo i automatika
+117,Algebra,4,4,0,0.00,9,1,Zimski,Računarstvo i automatika
+118,Programski jezici i strukture podataka,4,1,3,0.00,9,1,Zimski,Računarstvo i automatika
+119,Izborni strani jezik 1,2,0,0,0.00,3,1,Zimski,Računarstvo i automatika
+120,Arhitektura računara,4,1,3,0.00,9,1,Letnji,Računarstvo i automatika
+121,Osnovi elektrotehnike,4,4,0,0.00,9,1,Letnji,Računarstvo i automatika
+122,Fizika,4,0,4,0.00,9,1,Letnji,Računarstvo i automatika
+123,Izborni strani jezik,2,0,0,0.00,3,1,Letnji,Računarstvo i automatika
+124,Modeliranje i simulacija sistema,4,2,2,0.00,8,2,Zimski,Računarstvo i automatika
+125,Logičko projektovanje računarskih sistema 1,3,1,2,0.00,6,2,Zimski,Računarstvo i automatika
+126,Objektno orijentisano programiranje,4,0,3,1.00,8,2,Zimski,Računarstvo i automatika
+127,Matematička analiza 2,4,4,0,0.00,8,2,Zimski,Računarstvo i automatika
+128,Operativni sistemi,4,1,3,0.00,8,2,Letnji,Računarstvo i automatika
+129,Sistemi automatskog upravljanja,4,2,2,0.00,8,2,Letnji,Računarstvo i automatika
+130,Verovatnoća i slučajni procesi,2,2,0,0.00,5,2,Letnji,Računarstvo i automatika
+131,Osnovi paralelnog programiranja i softverski alati,3,0,3,0.00,6,2,Letnji,Računarstvo i automatika
+132,Izborna pozicija A,2,0,0,0.00,3,2,Letnji,Računarstvo i automatika
+133,Matematika 1,4,4,0,0.00,8,1,Zimski,Merenje i regulacija
+134,Osnovi elektrotehnike 1,4,4,0,0.00,9,1,Zimski,Merenje i regulacija
+135,Uvod u laboratorijski rad,2,0,1,2.00,5,1,Zimski,Merenje i regulacija
+136,Sociologija tehnike,2,0,0,0.00,3,1,Zimski,Merenje i regulacija
+137,Mehanika,2,2,0,0.00,5,1,Zimski,Merenje i regulacija
+138,Osnovi elektrotehnike 2,4,4,0,0.00,9,1,Letnji,Merenje i regulacija
+139,Matematika 2,4,4,0,0.00,9,1,Letnji,Merenje i regulacija
+140,Uvod u merno-informacione sisteme,2,0,3,0.00,6,1,Letnji,Merenje i regulacija
+141,Engleski jezik - niži srednji,2,0,0,0.00,2,1,Letnji,Merenje i regulacija
+142,Fizika,3,0,2,0.00,4,1,Letnji,Merenje i regulacija
+143,Uvod u elektroniku,3,2,1,0.00,6,2,Zimski,Merenje i regulacija
+144,Matematika 3,4,3,0,1.00,8,2,Zimski,Merenje i regulacija
+145,Engleski jezik - srednji,2,0,0,0.00,2,2,Zimski,Merenje i regulacija
+146,Izborni predmet 1,3-4,0-3,0-3,0.00-1.00,8,2,Zimski,Merenje i regulacija
+147,Izborni predmet 1a,3,0,3,0.00,7,2,Zimski,Merenje i regulacija
+148,Programski jezici i strukture podataka,3,0,3,0.00,6,2,Letnji,Merenje i regulacija
+149,Elektroenergetski pretvarači,3,1,2,0.00,7,2,Letnji,Merenje i regulacija
+150,Merni instrumenti,3,0,3,0.00,8,2,Letnji,Merenje i regulacija
+151,Izborni predmet 3,3-4,0-2,1-3,0.00,7,2,Letnji,Merenje i regulacija
+152,Engleski jezik za inženjere,2,0,0,0.00,2,2,Letnji,Merenje i regulacija
+153,Izborni predmet 1,3,0,3,0.00,7,3,Zimski,Merenje i regulacija
+154,Izborni predmet 2,2-3,0-1,2-3,0.00,6,3,Zimski,Merenje i regulacija
+155,Izborni predmet 3,3,0-3,0-3,0.00,7,3,Zimski,Merenje i regulacija
+156,Izborni predmet 4,2,0,2,0.00,4,3,Zimski,Merenje i regulacija
+157,Izborni predmet 5,3-4,0-1,2,0.00,7,3,Zimski,Merenje i regulacija
+158,Izborni predmet 6,2-3,0-2,1-2,0.00,6,3,Letnji,Merenje i regulacija
+159,Izborni predmet 7,3,0-1,1-3,0.00,6,3,Letnji,Merenje i regulacija
+160,Izborni predmet 8,3,0-1,1-3,0.00,6,3,Letnji,Merenje i regulacija
+161,Izborni predmet 9,4,0,4,0.00,8,3,Letnji,Merenje i regulacija
+162,Stručna praksa 1,0,0,0,3.00,3,3,Letnji,Merenje i regulacija
+163,Metrologija i mikroračunarska instrumentacija,2,2,0,0.00,6,4,Zimski,Merenje i regulacija
+164,Izborni predmet 1,3,0,3,0.00,7,4,Zimski,Merenje i regulacija
+165,Izborni predmet 2,3,0-2,1-3,0.00,6,4,Zimski,Merenje i regulacija
+166,Izborni predmet 3,2,0,2,0.00,4,4,Zimski,Merenje i regulacija
+167,Izborni predmet 4,4,1-2,2-3,0.00,8,4,Zimski,Merenje i regulacija
+168,Izborni predmet 5,2,0-2,0-2,0.00,4,4,Letnji,Merenje i regulacija
+169,Izborni predmet 6,3,0,3,0.00,5,4,Letnji,Merenje i regulacija
+170,Izborni predmet 7,3,0,3,0.00,5,4,Letnji,Merenje i regulacija
+171,Izborni predmet 8,2,0,2,0.00,4,4,Letnji,Merenje i regulacija
+172,Stručna praksa 2,0,0,0,3.00,2,4,Letnji,Merenje i regulacija
+173,Diplomski rad - istraživački rad,0,0,0,0.00,4,4,Letnji,Merenje i regulacija
+174,Diplomski rad - izrada i odbrana,0,0,0,3.00,5,4,Letnji,Merenje i regulacija
+175,Algebra,4,4,0,0.00,9,1,Zimski,Primenjeno softversko inženjerstvo
+176,Programski jezici i strukture podataka,4,1,3,0.00,9,1,Zimski,Primenjeno softversko inženjerstvo
+177,Strani jezik 1 - izborni,2,0,0,0.00,3,1,Zimski,Primenjeno softversko inženjerstvo
+178,Osnove elektrotehnike,4,4,0,0.00,9,1,Zimski,Primenjeno softversko inženjerstvo
+179,Arhitektura računara,4,1,3,0.00,9,1,Letnji,Primenjeno softversko inženjerstvo
+180,Sociologija tehnike,2,0,0,0.00,3,1,Letnji,Primenjeno softversko inženjerstvo
+181,Matematička analiza,4,4,0,0.00,6,1,Letnji,Primenjeno softversko inženjerstvo
+182,Strani jezik 2 - izborni,2,0,0,0.00,3,1,Letnji,Primenjeno softversko inženjerstvo
+183,Uvod u algoritme,4,0,3,1.00,9,1,Letnji,Primenjeno softversko inženjerstvo
+184,Diskretna matematika,2,2,0,0.00,4,2,Zimski,Primenjeno softversko inženjerstvo
+185,Osnovi elektroenergetike,3,3,0,0.00,6,2,Zimski,Primenjeno softversko inženjerstvo
+186,Objektno orijentisano programiranje,4,0,3,1.00,8,2,Zimski,Primenjeno softversko inženjerstvo
+187,Primenjeni algoritmi,3,0,2,1.00,6,2,Zimski,Primenjeno softversko inženjerstvo
+188,Izborni predmet 1,3,0-1,2-3,0.00,6,2,Zimski,Primenjeno softversko inženjerstvo
+189,Operativni sistemi,4,1,3,0.00,8,2,Letnji,Primenjeno softversko inženjerstvo
+190,Izborni predmet 2,4,0,4,0.00,8,2,Letnji,Primenjeno softversko inženjerstvo
+191,Sistemi za transport i distribuciju fluida,2,2,0,0.00,5,2,Letnji,Primenjeno softversko inženjerstvo
+192,Objektno orijentisane tehnologije,3,0,2,1.00,5,2,Letnji,Primenjeno softversko inženjerstvo
+193,Izborni predmet 3,2,2,0,0.00,4,2,Letnji,Primenjeno softversko inženjerstvo
+194,Programski prevodioci,2,0,2,0.00,4,3,Zimski,Primenjeno softversko inženjerstvo
+195,Uvod u baze podataka,4,1,3,0.00,8,3,Zimski,Primenjeno softversko inženjerstvo
+196,Modeliranje i simulacija sistema,4,2,2,0.00,8,3,Zimski,Primenjeno softversko inženjerstvo
+197,Elementi razvoja softvera,2,0,1,1.00,4,3,Zimski,Primenjeno softversko inženjerstvo
+198,Primena računarskih mreža u infrastrukturnim sistemima,3,0,2,1.00,6,3,Zimski,Primenjeno softversko inženjerstvo
+199,Osnove distribuiranog programiranja,3,0,2,1.00,6,3,Letnji,Primenjeno softversko inženjerstvo
+200,Akviziciono upravljački sistemi,3,0,2,1.00,6,3,Letnji,Primenjeno softversko inženjerstvo
+201,Virtuelizacija procesa,3,0,3,0.00,6,3,Letnji,Primenjeno softversko inženjerstvo
+202,Veb programiranje u infrastrukturnim sistemima,3,0,3,0.00,6,3,Letnji,Primenjeno softversko inženjerstvo
+203,Inženjerstvo upotrebljivosti u infrastrukturnim sistemima,3,0,2,1.00,6,3,Letnji,Primenjeno softversko inženjerstvo
+204,Izborni predmet 4,12,0-6,6-12,0.00,24,4,Zimski,Primenjeno softversko inženjerstvo
+205,Stručna praksa,0,0,0,6.00,6,4,Zimski,Primenjeno softversko inženjerstvo
+206,Izborni predmet 8,9,0,9,0.00,18,4,Letnji,Primenjeno softversko inženjerstvo
+207,Projekat,1,2,0,0.00,4,4,Letnji,Primenjeno softversko inženjerstvo
+208,Diplomski rad - istraživački rad,0,0,0,0.00,4,4,Letnji,Primenjeno softversko inženjerstvo
+209,Diplomski rad - izrada i odbrana,0,0,0,4.00,4,4,Letnji,Primenjeno softversko inženjerstvo
+210,Osnove programiranja,3,0,3,0.00,9,1,Zimski,Softversko inženjerstvo i informacione tehnologije
+211,Arhitektura računara,3,0,3,0.00,9,1,Zimski,Softversko inženjerstvo i informacione tehnologije
+212,Algebra,4,3,1,0.00,6,1,Zimski,Softversko inženjerstvo i informacione tehnologije
+213,Sociologija tehnike,2,0,0,0.00,3,1,Zimski,Softversko inženjerstvo i informacione tehnologije
+214,Izborni strani jezik 1,2,0,0,0.00,3,1,Zimski,Softversko inženjerstvo i informacione tehnologije
+215,Web dizajn,2,0,2,0.00,6,1,Letnji,Softversko inženjerstvo i informacione tehnologije
+216,Internet mreže,2,0,2,0.00,4,1,Letnji,Softversko inženjerstvo i informacione tehnologije
+217,Objektno orijentisano programiranje 1,3,0,2,0.00,7,1,Letnji,Softversko inženjerstvo i informacione tehnologije
+218,Algoritmi i strukture podataka,3,0,2,0.00,7,1,Letnji,Softversko inženjerstvo i informacione tehnologije
+219,Matematička analiza,4,4,0,0.00,6,1,Letnji,Softversko inženjerstvo i informacione tehnologije
+220,Objektno orijentisano programiranje 2,3,0,3,0.00,6,2,Zimski,Softversko inženjerstvo i informacione tehnologije
+221,Organizacija podataka,2,0,2,0.00,6,2,Zimski,Softversko inženjerstvo i informacione tehnologije
+222,Numerički algoritmi i numerički softver,2,0,2,0.00,4,2,Zimski,Softversko inženjerstvo i informacione tehnologije
+223,Nelinearno programiranje i evolutivni algoritmi,2,2,1,0.00,4,2,Zimski,Softversko inženjerstvo i informacione tehnologije
+224,Diskretna matematika,3,3,0,0.00,6,2,Zimski,Softversko inženjerstvo i informacione tehnologije
+225,Izborna pozicija - 1,2,0,2,0.00,4,2,Zimski,Softversko inženjerstvo i informacione tehnologije
+226,Uvod u softversko inženjerstvo,3,0,2,0.00,6,2,Letnji,Softversko inženjerstvo i informacione tehnologije
+227,Specifikacija i modeliranje softvera,3,0,3,0.00,6,2,Letnji,Softversko inženjerstvo i informacione tehnologije
+228,Upravljanje informacijama,2,0,2,0.00,5,2,Letnji,Softversko inženjerstvo i informacione tehnologije
+229,Baze podataka,2,0,2,0.00,4,2,Letnji,Softversko inženjerstvo i informacione tehnologije
+230,Operativni sistemi,2,0,2,0.00,4,2,Letnji,Softversko inženjerstvo i informacione tehnologije
+231,Izborna pozicija - 2,3,0-2,0-2,0.00,5,2,Letnji,Softversko inženjerstvo i informacione tehnologije
+232,Softverski obrasci i komponente,2,0,2,0.00,5,3,Zimski,Softversko inženjerstvo i informacione tehnologije
+233,Metodologije razvoja softvera,2,0,2,0.00,5,3,Zimski,Softversko inženjerstvo i informacione tehnologije
+234,Inženjerstvo serverskog sloja,2,0,2,0.00,5,3,Zimski,Softversko inženjerstvo i informacione tehnologije
+235,Testiranje softvera,2,0,2,0.00,5,3,Zimski,Softversko inženjerstvo i informacione tehnologije
+236,Mobilne aplikacije,2,0,2,0.00,5,3,Zimski,Softversko inženjerstvo i informacione tehnologije
+237,Inženjerstvo klijentskog sloja,2,0,2,0.00,5,3,Zimski,Softversko inženjerstvo i informacione tehnologije
+238,Računarstvo u oblaku,3,0,2,0.00,5,3,Letnji,Softversko inženjerstvo i informacione tehnologije
+239,Interakcija čovek računar,2,0,2,0.00,5,3,Letnji,Softversko inženjerstvo i informacione tehnologije
+240,Informaciona bezbednost,2,0,2,0.00,5,3,Letnji,Softversko inženjerstvo i informacione tehnologije
+241,Računarska inteligencija,3,0,2,0.00,5,3,Letnji,Softversko inženjerstvo i informacione tehnologije
+242,Statistika,3,1,2,0.00,5,3,Letnji,Softversko inženjerstvo i informacione tehnologije
+243,Izborna pozicija - 3,2,0,2,0.00,5,3,Letnji,Softversko inženjerstvo i informacione tehnologije
+244,Izborna pozicija - 4,2,0,2,0.00,4,4,Zimski,Softversko inženjerstvo i informacione tehnologije
+245,Izborna pozicija - 5,2,0,2,0.00,4,4,Zimski,Softversko inženjerstvo i informacione tehnologije
+246,Izborna pozicija - 6,2,0,2,0.00,4,4,Zimski,Softversko inženjerstvo i informacione tehnologije
+247,Izborna pozicija - 7,3,0,2,0.00,5,4,Zimski,Softversko inženjerstvo i informacione tehnologije
+248,Izborna pozicija - 8,3,0,3,0.00,6,4,Zimski,Softversko inženjerstvo i informacione tehnologije
+249,Stručna praksa - projekat,0,0,0,6.00,6,4,Zimski,Softversko inženjerstvo i informacione tehnologije
+250,Pisana i govorna komunikacija u tehnici,2,0,1,0.00,4,4,Letnji,Softversko inženjerstvo i informacione tehnologije
+251,Izborna pozicija - 10,3,0,3,0.00,6,4,Letnji,Softversko inženjerstvo i informacione tehnologije
+252,Izborna pozicija - 11,3,0,2-3,0.00,5,4,Letnji,Softversko inženjerstvo i informacione tehnologije
+253,Izborna pozicija  - 12,3-4,0,3-4,0.00,6,4,Letnji,Softversko inženjerstvo i informacione tehnologije
+254,Završni rad - istraživački rad,0,0,0,0.00,5,4,Letnji,Softversko inženjerstvo i informacione tehnologije
+255,Završni rad - izrada i odbrana,0,0,0,3.00,5,4,Letnji,Softversko inženjerstvo i informacione tehnologije
+256,Algebra,4,4,0,0.00,9,1,Zimski,Informacioni inženjering
+257,Osnovi programiranja i programskih jezika,4,1,3,0.00,7,1,Zimski,Informacioni inženjering
+258,Uvod u informacioni i finansijski inženjering,2,0,2,0.00,3,1,Zimski,Informacioni inženjering
+259,Komunikologija,2,2,0,0.00,4,1,Zimski,Informacioni inženjering
+260,Mehanika,2,2,0,0.00,5,1,Zimski,Informacioni inženjering
+261,Izborni strani jezik 1,2,0,0,0.00,2,1,Zimski,Informacioni inženjering
+262,Matematička analiza 1,4,4,0,0.00,9,1,Letnji,Informacioni inženjering
+263,Arhitektura računara,4,1,3,0.00,9,1,Letnji,Informacioni inženjering
+264,Teorija algoritama,3,0,3,0.00,5,1,Letnji,Informacioni inženjering
+265,Osnove finansijskog inženjeringa 1,3,1,2,0.00,5,1,Letnji,Informacioni inženjering
+266,Izborni strani jezik 2,2,0,0,0.00,2,1,Letnji,Informacioni inženjering
+267,Matematička analiza 2,3,3,0,0.00,7,2,Zimski,Informacioni inženjering
+268,Osnove teorije grafova i kombinatorike,3,3,0,0.00,7,2,Zimski,Informacioni inženjering
+269,Napredno programiranje i programski jezici,4,1,3,0.00,8,2,Zimski,Informacioni inženjering
+270,Logičko projektovanje računarskih sistema 1,3,1,2,0.00,6,2,Zimski,Informacioni inženjering
+271,Engleski jezik za informacioni inženjering,2,0,0,0.00,2,2,Zimski,Informacioni inženjering
+272,Verovatnoća i slučajni procesi,2,2,0,0.00,5,2,Letnji,Informacioni inženjering
+273,Matematička logika,3,2,0,0.00,5,2,Letnji,Informacioni inženjering
+274,Operativni sistemi,4,1,3,0.00,8,2,Letnji,Informacioni inženjering
+275,Veb programiranje,3,0,3,0.00,6,2,Letnji,Informacioni inženjering
+276,Osnove finansijskog inženjeringa 2,3,2,0,0.00,6,2,Letnji,Informacioni inženjering
+277,Optimizacioni algoritmi i nelinearno programiranje,4,2,2,0.00,8,3,Zimski,Informacioni inženjering
+278,Numerički algoritmi i numerički softver,2,0,2,0.00,4,3,Zimski,Informacioni inženjering
+279,Obrada vremenskih nizova podataka,3,1,1,0.00,5,3,Zimski,Informacioni inženjering
+280,Baze podataka 1,4,1,3,0.00,8,3,Zimski,Informacioni inženjering
+281,Programski prevodioci,3,0,2,0.00,5,3,Zimski,Informacioni inženjering
+282,Praktikum iz statistike,2,0,1,0.00,4,3,Letnji,Informacioni inženjering
+283,Paralelno računarstvo,2,0,2,0.00,4,3,Letnji,Informacioni inženjering
+284,Izborni predmet II31,4,0-1,3-4,0.00,8,3,Letnji,Informacioni inženjering
+285,Izborni predmet II32,2,0-2,0-2,0.00,4,3,Letnji,Informacioni inženjering
+286,Izborni predmet II33,3,0,3,0.00,6,3,Letnji,Informacioni inženjering
+287,Izborni predmet II34,2-3,0-2,0-2,0.00,4,3,Letnji,Informacioni inženjering
+288,Matematika 1,3,3,0,0.00,6,1,Zimski,Čiste energetske tehnologije
+289,"Energija, društvo i okruženje",3,3,0,0.00,6,1,Zimski,Čiste energetske tehnologije
+290,Hemijski fenomeni u mašinstvu,2,0,2,0.00,4,1,Zimski,Čiste energetske tehnologije
+291,Izborni predmet - strani jezik,2,0,0,0.00,2,1,Zimski,Čiste energetske tehnologije
+292,Inženjerski materijali,3,0,3,0.00,7,1,Zimski,Čiste energetske tehnologije
+293,Osnovi elektrotehnike,2,2,0,0.00,5,1,Zimski,Čiste energetske tehnologije
+294,Matematika 2,3,3,0,0.00,6,1,Letnji,Čiste energetske tehnologije
+295,Inženjerske grafičke komunikacije,3,2,1,0.00,6,1,Letnji,Čiste energetske tehnologije
+296,Tehnička fizika,2,0,2,0.00,6,1,Letnji,Čiste energetske tehnologije
+297,Mehanika 1 - osnove,3,3,0,0.00,7,1,Letnji,Čiste energetske tehnologije
+298,Programiranje i inženjerski korisnički programi,3,0,3,0.00,5,1,Letnji,Čiste energetske tehnologije
+299,Uvod u termodinamiku,2,2,0,0.00,5,2,Zimski,Čiste energetske tehnologije
+300,Uvod u mehaniku fluida,2,2,0,0.00,5,2,Zimski,Čiste energetske tehnologije
+301,Izborni predmet - strani jezik 2,2,0,0,0.00,2,2,Zimski,Čiste energetske tehnologije
+302,Teorija verovatnoće i statistika,2,2,0,0.00,5,2,Zimski,Čiste energetske tehnologije
+303,Informacione tehnologije i sistemi u energetskom menadžmentu,2,0,2,0.00,7,2,Zimski,Čiste energetske tehnologije
+304,Ekološki materijali,3,3,0,0.00,6,2,Zimski,Čiste energetske tehnologije
+305,Operaciona istraživanja,3,3,0,0.00,7,2,Letnji,Čiste energetske tehnologije
+306,Elektroenergetski pretvarači,3,1,2,0.00,7,2,Letnji,Čiste energetske tehnologije
+307,Energetska postrojenja i transformacije,2,2,0,0.00,5,2,Letnji,Čiste energetske tehnologije
+308,Izborni predmet- strani jezik,2,0,0,0.00,2,2,Letnji,Čiste energetske tehnologije
+309,Izborni predmet 1,3,3,0,0.00,7,2,Letnji,Čiste energetske tehnologije
+310,Izborni predmet 2,2,0,0,0.00,2,2,Letnji,Čiste energetske tehnologije
+311,Modelovanje i simulacija energetskih sistema,2,1,1,1.00,5,3,Zimski,Čiste energetske tehnologije
+312,Sistemi automatskog upravljanja u energetici,3,3,0,0.00,7,3,Zimski,Čiste energetske tehnologije
+313,Energetska efikasnost,2,2,0,0.00,6,3,Zimski,Čiste energetske tehnologije
+314,Izborni predmet 3,2-3,1-2,0-2,0.00,6,3,Zimski,Čiste energetske tehnologije
+315,Preventivne mere u oblasti bezbednosti i zdravlja na radu,3,3,0,0.00,6,3,Zimski,Čiste energetske tehnologije
+316,Izborni predmet 4,2,0-1,1-2,0.00-2.00,7,3,Letnji,Čiste energetske tehnologije
+317,Izborni predmet 5,2,2,0,0.00,5,3,Letnji,Čiste energetske tehnologije
+318,"Merenje, nadzor i upravljanje",2,1,1,0.00,6,3,Letnji,Čiste energetske tehnologije
+319,Monitoring životne sredine,3,0,3,0.00,6,3,Letnji,Čiste energetske tehnologije
+320,Obnovljivi izvori energije,3,2,0,0.00,6,3,Letnji,Čiste energetske tehnologije
+321,Primenjena automatizacija u industriji i zgradarstvu,2,1,1,0.00,5,4,Zimski,Čiste energetske tehnologije
+322,Projektovanje i planiranje u zaštiti životne sredine,3,3,0,0.00,7,4,Zimski,Čiste energetske tehnologije
+323,Izborni predmet 6,2,0-2,0-2,0.00,4,4,Zimski,Čiste energetske tehnologije
+324,Izborni predmet 7,3,0-3,0-3,0.00,6,4,Zimski,Čiste energetske tehnologije
+325,Stručna praksa,0,0,0,6.00,4,4,Zimski,Čiste energetske tehnologije
+326,Izborni predmet 8,2,0-2,0-2,0.00,4,4,Zimski,Čiste energetske tehnologije
+327,"Osnove grejanja, ventilacije i klimatizacije",3,1,2,0.00,4,4,Letnji,Čiste energetske tehnologije
+328,Tehnologije energetskog iskorišćenja otpada,3,0,3,0.00,6,4,Letnji,Čiste energetske tehnologije
+329,Izborni predmet 9,2,1-2,0-1,0.00,5,4,Letnji,Čiste energetske tehnologije
+330,Izborni predmet 10,2-3,2-3,0,0.00,5,4,Letnji,Čiste energetske tehnologije
+331,Diplomski rad - istraživački rad,0,0,0,0.00,5,4,Letnji,Čiste energetske tehnologije
+332,Diplomski rad - izrada i odbrana,0,0,0,4.00,5,4,Letnji,Čiste energetske tehnologije
+333,Računarski praktikum,2,0,2,0.00,5,1,Zimski,Geodezija i geoinformatika
+334,Algebra,4,4,0,0.00,8,1,Zimski,Geodezija i geoinformatika
+335,Uvod u geodeziju,2,2,0,0.00,5,1,Zimski,Geodezija i geoinformatika
+336,Fizika,2,0,2,0.00,5,1,Zimski,Geodezija i geoinformatika
+337,Izborni predmet 1,2,2,0,0.00,4,1,Zimski,Geodezija i geoinformatika
+338,Izborni strani jezik 1,2,0,0,0.00,3,1,Zimski,Geodezija i geoinformatika
+339,Matematička analiza 1,4,4,0,0.00,7,1,Letnji,Geodezija i geoinformatika
+340,Geodezija 1,2,0,3,0.00,5,1,Letnji,Geodezija i geoinformatika
+341,Osnove geonauka,2,1,0,0.00,3,1,Letnji,Geodezija i geoinformatika
+342,Tehnike geodetskih merenja,2,0,2,0.00,5,1,Letnji,Geodezija i geoinformatika
+343,Uvod u informacione tehnologije u geomatici,2,0,2,0.00,5,1,Letnji,Geodezija i geoinformatika
+344,Izborni predmet 2,2,0,0,0.00,2,1,Letnji,Geodezija i geoinformatika
+345,Izborni strani jezik,2,0,0,0.00,3,1,Letnji,Geodezija i geoinformatika
+346,Matematička analiza 2,3,3,0,0.00,7,2,Zimski,Geodezija i geoinformatika
+347,Geodezija 2,3,0,3,0.00,5,2,Zimski,Geodezija i geoinformatika
+348,Kartografija,2,0,2,0.00,4,2,Zimski,Geodezija i geoinformatika
+349,Informacioni sistemi i baze podataka,2,0,2,0.00,4,2,Zimski,Geodezija i geoinformatika
+350,Sistemi i signali u geomatici,2,0,2,0.00,4,2,Zimski,Geodezija i geoinformatika
+351,Izborni predmet 3,3,2-3,0,0.00,6,2,Zimski,Geodezija i geoinformatika
+352,Račun izravnanja,2,0,3,0.00,5,2,Letnji,Geodezija i geoinformatika
+353,Geoinformatika,3,0,3,0.00,6,2,Letnji,Geodezija i geoinformatika
+354,Sistemi automatskog upravljanja u geomatici,3,1,2,0.00,6,2,Letnji,Geodezija i geoinformatika
+355,Osnove GNSS tehnologije,2,0,2,0.00,4,2,Letnji,Geodezija i geoinformatika
+356,Fotogrametrija,3,0,2,0.00,5,2,Letnji,Geodezija i geoinformatika
+357,Verovatnoća i matematička statistika,2,2,0,0.00,4,2,Letnji,Geodezija i geoinformatika
+358,Inženjerska geodezija,3,0,3,0.00,7,3,Zimski,Geodezija i geoinformatika
+359,Modeliranje i simulacija sistema,2,0,2,0.00,5,3,Zimski,Geodezija i geoinformatika
+360,Digitalni modeli terena,3,0,3,0.00,7,3,Zimski,Geodezija i geoinformatika
+361,Geoinformacioni sistemi,3,0,3,0.00,7,3,Zimski,Geodezija i geoinformatika
+362,Izborni predmet 4,2,0-2,0-2,0.00,4,3,Zimski,Geodezija i geoinformatika
+363,Metode optimizacije,3,1,2,0.00,6,3,Letnji,Geodezija i geoinformatika
+364,Komasacija,2,1,1,0.00,5,3,Letnji,Geodezija i geoinformatika
+365,Inženjerska geodezija 2,3,0,3,0.00,7,3,Letnji,Geodezija i geoinformatika
+366,Katastar,3,3,0,0.00,7,3,Letnji,Geodezija i geoinformatika
+367,Izborni predmet 5,2,0,2-3,0.00,5,3,Letnji,Geodezija i geoinformatika
+368,Detekcija objekata podzemne infrastrukture,3,0,3,0.00,6,4,Zimski,Geodezija i geoinformatika
+369,Uvod u daljinsku detekciju i računarsku obradu slike,3,0,3,0.00,6,4,Zimski,Geodezija i geoinformatika
+370,Geoprostorne baze podataka,3,0,3,0.00,6,4,Zimski,Geodezija i geoinformatika
+371,Izborni predmet 6,3,0,3,0.00,6,4,Zimski,Geodezija i geoinformatika
+372,Stručna praksa,0,0,0,6.00,5,4,Zimski,Geodezija i geoinformatika
+373,Izborni predmet 7,2,0,2,0.00,5,4,Letnji,Geodezija i geoinformatika
+374,Integrisani sistemi premera,3,0,3,0.00,6,4,Letnji,Geodezija i geoinformatika
+375,Izborni predmet 8,3,0,2,0.00,5,4,Letnji,Geodezija i geoinformatika
+376,Izborni predmet 9,3,0-3,0-3,0.00,5,4,Letnji,Geodezija i geoinformatika
+377,Završni rad - istraživački rad,0,0,0,0.00,5,4,Letnji,Geodezija i geoinformatika
+378,Završni rad - izrada i odbrana,0,0,0,4.00,5,4,Letnji,Geodezija i geoinformatika
+379,Matematika,4,4,0,0.00,8,1,Zimski,Grafičko inženjerstvo i dizajn
+380,Hemija u grafičkom inženjerstvu,4,0,4,0.00,8,1,Zimski,Grafičko inženjerstvo i dizajn
+381,Grafičke aplikacije,2,0,4,0.00,7,1,Zimski,Grafičko inženjerstvo i dizajn
+382,Izborna pozicija 1,2,0,0,0.00,2,1,Zimski,Grafičko inženjerstvo i dizajn
+383,Likovna kultura,2,0,2,0.00,5,1,Zimski,Grafičko inženjerstvo i dizajn
+384,Uvod u grafičke tehnologije,2,0,4,0.00,8,1,Letnji,Grafičko inženjerstvo i dizajn
+385,Grafički materijali,4,0,4,0.00,7,1,Letnji,Grafičko inženjerstvo i dizajn
+386,Sociologija kulture,2,0,0,0.00,4,1,Letnji,Grafičko inženjerstvo i dizajn
+387,Vizuelna kultura,2,0,2,0.00,3,1,Letnji,Grafičko inženjerstvo i dizajn
+388,Fizika,2,0,4,0.00,6,1,Letnji,Grafičko inženjerstvo i dizajn
+389,Izborna pozicija 2,2,0,0,0.00,2,1,Letnji,Grafičko inženjerstvo i dizajn
+390,Industrijski dizajn,2,0,2,0.00,5,2,Zimski,Grafičko inženjerstvo i dizajn
+391,Pismo i tipografija,4,0,4,0.00,7,2,Zimski,Grafičko inženjerstvo i dizajn
+392,Multimediji,2,0,4,0.00,6,2,Zimski,Grafičko inženjerstvo i dizajn
+393,Izborni predmet 1,2,0-2,0-2,0.00,4,2,Zimski,Grafičko inženjerstvo i dizajn
+394,Izborni predmet 2,2-3,0,2-3,0.00,6,2,Zimski,Grafičko inženjerstvo i dizajn
+395,Izborna pozicija 3,2,0,0,0.00,2,2,Zimski,Grafičko inženjerstvo i dizajn
+396,Grafički procesi,4,0,4,0.00,8,2,Letnji,Grafičko inženjerstvo i dizajn
+397,Osnovi prostornog dizajna,2,0,4,0.00,6,2,Letnji,Grafičko inženjerstvo i dizajn
+398,Fotografija,2,0,2,0.00,5,2,Letnji,Grafičko inženjerstvo i dizajn
+399,Izborni predmet 3,2,0-2,0-2,0.00,4,2,Letnji,Grafičko inženjerstvo i dizajn
+400,Izborni predmet 4,2,0,2,0.00,4,2,Letnji,Grafičko inženjerstvo i dizajn
+401,Izborna pozicija 4,2,0,0,0.00,3,2,Letnji,Grafičko inženjerstvo i dizajn
+402,Digitalna reprodukcija,4,0,4,0.00,8,3,Zimski,Grafičko inženjerstvo i dizajn
+403,Štamparske forme,4,0,4,0.00,8,3,Zimski,Grafičko inženjerstvo i dizajn
+404,Osnove kompjuterskih igara,2,0,4,0.00,6,3,Zimski,Grafičko inženjerstvo i dizajn
+405,Izborni predmet 1,2-3,0-2,0-2,0.00-1.00,5,3,Zimski,Grafičko inženjerstvo i dizajn
+406,Izborna pozicija 5,2,0,0,0.00,3,3,Zimski,Grafičko inženjerstvo i dizajn
+407,Tehnike štampe,4,0,4,0.00,8,3,Letnji,Grafičko inženjerstvo i dizajn
+408,Kompjuterske igre,2,0,4,0.00,6,3,Letnji,Grafičko inženjerstvo i dizajn
+409,Završna grafička obrada,4,0,4,0.00,8,3,Letnji,Grafičko inženjerstvo i dizajn
+410,Izborni predmet 2,2,0,2,0.00,5,3,Letnji,Grafičko inženjerstvo i dizajn
+411,Izborna pozicija 6,2,0,0,0.00,3,3,Letnji,Grafičko inženjerstvo i dizajn
+412,Nauka o boji,2,0,2,0.00,4,4,Zimski,Grafičko inženjerstvo i dizajn
+413,Grafički sistemi,2,0,2,0.00,4,4,Zimski,Grafičko inženjerstvo i dizajn
+414,WEB dizajn,2,0,4,0.00,7,4,Zimski,Grafičko inženjerstvo i dizajn
+415,Grafička ambalaža,2,0,2,0.00,4,4,Zimski,Grafičko inženjerstvo i dizajn
+416,Izborni predmet 1,2,0-2,0-2,0.00,4,4,Zimski,Grafičko inženjerstvo i dizajn
+417,Izborna pozicija 7,2,0,0,0.00,3,4,Zimski,Grafičko inženjerstvo i dizajn
+418,Stručna praksa,0,0,0,6.00,4,4,Zimski,Grafičko inženjerstvo i dizajn
+419,Izborni predmet 2,2,0,2,0.00,4,4,Letnji,Grafičko inženjerstvo i dizajn
+420,Grafički dizajn,4,0,4,0.00,8,4,Letnji,Grafičko inženjerstvo i dizajn
+421,Dizajn ambalaže,4,0,4,0.00,8,4,Letnji,Grafičko inženjerstvo i dizajn
+422,Diplomski rad - istraživački rad,0,0,0,0.00,5,4,Letnji,Grafičko inženjerstvo i dizajn
+423,Diplomski rad - izrada i odbrana,0,0,0,5.00,5,4,Letnji,Grafičko inženjerstvo i dizajn
+424,Matematičke metode 1,3,3,0,0.00,6,1,Zimski,Građevinarstvo
+425,Nacrtna geometrija,2,2,0,0.00,5,1,Zimski,Građevinarstvo
+426,Materijali u građevinarstvu 1,2,0,1,0.00,5,1,Zimski,Građevinarstvo
+427,Inženjerska geologija,3,0,2,0.00,6,1,Zimski,Građevinarstvo
+428,Osnovi računarstva,2,0,2,0.00,4,1,Zimski,Građevinarstvo
+429,Izborni predmet 1,3,0,0,0.00,3,1,Zimski,Građevinarstvo
+430,Matematičke metode 2,3,3,0,0.00,6,1,Letnji,Građevinarstvo
+431,Materijali u građevinarstvu 2,4,0,2,0.00,7,1,Letnji,Građevinarstvo
+432,Mehanika 1,3,2,0,0.00,6,1,Letnji,Građevinarstvo
+433,Geodezija,2,1,1,0.00,5,1,Letnji,Građevinarstvo
+434,Građevinska fizika,2,0,2,0.00,5,1,Letnji,Građevinarstvo
+435,Strani jezik - 1,2,0,0,0.00,2,1,Letnji,Građevinarstvo
+436,Zgradarstvo 1,4,1,0,1.00,7,2,Zimski,Građevinarstvo
+437,Mehanika 2,2,2,0,0.00,5,2,Zimski,Građevinarstvo
+438,Otpornost materijala,4,4,0,0.00,8,2,Zimski,Građevinarstvo
+439,Osnove projektovanja građevinskih objekata,4,1,0,1.00,7,2,Zimski,Građevinarstvo
+440,Izborna pozicija - 1,2,1,1,0.00,4,2,Zimski,Građevinarstvo
+441,Mehanika tla,4,3,0,0.00,8,2,Letnji,Građevinarstvo
+442,Zgradarstvo 2,3,2,0,0.00,5,2,Letnji,Građevinarstvo
+443,Osnovi hidromehanike i hidrotehnike,4,1,1,0.00,7,2,Letnji,Građevinarstvo
+444,Putevi i saobraćajnice,3,3,0,0.00,6,2,Letnji,Građevinarstvo
+445,Dejstva na objekte,2,0,0,0.00,3,2,Letnji,Građevinarstvo
+446,Fundiranje,4,3,0,0.00,8,3,Zimski,Građevinarstvo
+447,Statika konstrukcija 1,4,3,1,0.00,9,3,Zimski,Građevinarstvo
+448,Teorija betonskih konstrukcija 1,3,2,0,0.00,6,3,Zimski,Građevinarstvo
+449,Hidrotehnički objekti i sistemi,4,1,1,0.00,7,3,Zimski,Građevinarstvo
+450,Osnove industrijskog inženjerstva i menadžmenta,3,3,0,0.00,6,1,Zimski,Industrijsko inženjerstvo
+451,Matematika 1,2,2,0,0.00,5,1,Zimski,Industrijsko inženjerstvo
+452,Sociologija rada,2,2,0,0.00,4,1,Zimski,Industrijsko inženjerstvo
+453,Materijali u inženjerstvu,3,2,0,0.00,6,1,Zimski,Industrijsko inženjerstvo
+454,Računarske tehnologije,4,0,4,0.00,7,1,Zimski,Industrijsko inženjerstvo
+455,Strani jezik 1,2,0,0,0.00,3,1,Zimski,Industrijsko inženjerstvo
+456,Matematika 2,2,2,0,0.00,6,1,Letnji,Industrijsko inženjerstvo
+457,Procesi i sredstva rada,3,3,0,0.00,6,1,Letnji,Industrijsko inženjerstvo
+458,Razvoj i projektovanje proizvoda,4,2,2,0.00,7,1,Letnji,Industrijsko inženjerstvo
+459,Mehanika u industrijskom inženjerstvu,3,3,0,0.00,7,1,Letnji,Industrijsko inženjerstvo
+460,Strani jezik 2,2-3,0,0,0.00,3,1,Letnji,Industrijsko inženjerstvo
+461,Upravljanje tehničkim sistemima,2,0,2,0.00,4,2,Zimski,Industrijsko inženjerstvo
+462,Teorija verovatnoće i statistika,2,2,0,0.00,5,2,Zimski,Industrijsko inženjerstvo
+463,Računarom podržano projektovanje proizvoda (CAD/CAE),3,0,2,1.00,6,2,Zimski,Industrijsko inženjerstvo
+464,Tehnologije obrade proizvoda,3,2,0,2.00,6,2,Zimski,Industrijsko inženjerstvo
+465,Ekonomika preduzeća,2,2,0,0.00,4,2,Zimski,Industrijsko inženjerstvo
+466,Izborni predmet 1,2,0-2,0-2,0.00,5,2,Zimski,Industrijsko inženjerstvo
+467,Studija rada i ergonomija,2,2,0,0.00,4,2,Letnji,Industrijsko inženjerstvo
+468,"Projektovanje postupaka rada CAPP, CAM",3,2,0,0.00,5,2,Letnji,Industrijsko inženjerstvo
+469,Pouzdanost tehničkih sistema i održavanje,2,2,1,0.00,5,2,Letnji,Industrijsko inženjerstvo
+470,Sistemi za automatsku identifikaciju,2,0,2,0.00,4,2,Letnji,Industrijsko inženjerstvo
+471,Teorija odlučivanja,2,2,0,0.00,5,2,Letnji,Industrijsko inženjerstvo
+472,Automatizacija procesa rada 1,4,0,2,2.00,7,2,Letnji,Industrijsko inženjerstvo
+473,Tehnologije montaže,3,0,2,1.00,6,3,Zimski,Industrijsko inženjerstvo
+474,Tehnologije rukovanja materijalom,3,0,2,1.00,6,3,Zimski,Industrijsko inženjerstvo
+475,Tehnologije merenja i kontrole proizvoda,3,1,1,0.00,5,3,Zimski,Industrijsko inženjerstvo
+476,Preduzetništvo i inovacije,3,2,0,0.00,4,3,Zimski,Industrijsko inženjerstvo
+477,Integralna sistemska podrška - logistika,2,2,0,0.00,5,3,Zimski,Industrijsko inženjerstvo
+478,Metode i tehnike upravljanja projektima,2,0,2,0.00,4,3,Zimski,Industrijsko inženjerstvo
+479,Projektovanje proizvodnih sistema,3,2,0,0.00,5,3,Letnji,Industrijsko inženjerstvo
+480,Projektovanje informacionih sistema,3,0,2,0.00,5,3,Letnji,Industrijsko inženjerstvo
+481,Organizacija preduzeća,2,2,0,0.00,5,3,Letnji,Industrijsko inženjerstvo
+482,Sistem menadžmenta kvalitetom,2,2,0,0.00,5,3,Letnji,Industrijsko inženjerstvo
+483,Izborni predmet 2,3,0-2,0-2,0.00,7,3,Letnji,Industrijsko inženjerstvo
+484,Stručna praksa,0,0,0,6.00,3,3,Letnji,Industrijsko inženjerstvo
+485,Upravljanje procesima rada,3,0,3,0.00,6,4,Zimski,Industrijsko inženjerstvo
+486,Inženjerstvo usluga,3,1,1,0.00,5,4,Zimski,Industrijsko inženjerstvo
+487,Programabilni logički kontroleri (PLC),2,0,2,0.00,5,4,Zimski,Industrijsko inženjerstvo
+488,Izborni predmet 3,2,0,2,0.00-1.00,5,4,Zimski,Industrijsko inženjerstvo
+489,Izborni predmet 4,2,0-2,0-2,0.00,4,4,Zimski,Industrijsko inženjerstvo
+490,Izborni predmet 5,3,0-2,0-3,0.00,5,4,Zimski,Industrijsko inženjerstvo
+491,Inženjerski pristup rešavanju problema,3,2,0,0.00,5,4,Letnji,Industrijsko inženjerstvo
+492,Osnove LEAN proizvodnje,2,2,0,0.00,4,4,Letnji,Industrijsko inženjerstvo
+493,Izborni predmet 6,2-3,0-2,0-3,0.00,5,4,Letnji,Industrijsko inženjerstvo
+494,Izborni predmet 7,2-3,0-3,0-3,0.00,5,4,Letnji,Industrijsko inženjerstvo
+495,Izborni predmet 8,3,0-2,0-2,0.00,5,4,Letnji,Industrijsko inženjerstvo
+496,Diplomski rad - istraživački rad,0,0,0,0.00,3,4,Letnji,Industrijsko inženjerstvo
+497,Diplomski rad - izrada i odbrana,0,0,0,3.00,3,4,Letnji,Industrijsko inženjerstvo
+498,Osnove industrijskog inženjerstva,2,3,0,0.00,6,1,Zimski,Inženjerski menadžment
+499,Matematika 1,2,2,0,0.00,5,1,Zimski,Inženjerski menadžment
+500,Preduzetništvo,3,3,0,0.00,6,1,Zimski,Inženjerski menadžment
+501,Sociologija rada,2,2,0,0.00,4,1,Zimski,Inženjerski menadžment
+502,Principi inženjerskog menadžmenta,3,2,0,1.00,6,1,Zimski,Inženjerski menadžment
+503,Strani jezik 1,2,0,0,0.00,3,1,Zimski,Inženjerski menadžment
+504,Matematika 2,2,2,0,0.00,6,1,Letnji,Inženjerski menadžment
+505,Principi ekonomije,2,2,0,0.00,4,1,Letnji,Inženjerski menadžment
+506,Procesi i sredstva rada,3,3,0,0.00,6,1,Letnji,Inženjerski menadžment
+507,Osnove informacionih tehnologija,4,0,4,0.00,6,1,Letnji,Inženjerski menadžment
+508,Poslovno komuniciranje,2,2,0,0.00,5,1,Letnji,Inženjerski menadžment
+509,Strani jezik 2,2-3,0,0,0.00,3,1,Letnji,Inženjerski menadžment
+510,Procesi komercijalnog poslovanja,3,2,1,0.00,6,2,Zimski,Inženjerski menadžment
+511,Proizvodne i uslužne tehnologije,3,3,0,0.00,6,2,Zimski,Inženjerski menadžment
+512,Teorija verovatnoće i statistika,2,2,0,0.00,5,2,Zimski,Inženjerski menadžment
+513,Razvoj proizvoda i programa proizvodnje,2,2,0,1.00,5,2,Zimski,Inženjerski menadžment
+514,Upravljačko računovodstvo,2,2,0,0.00,4,2,Zimski,Inženjerski menadžment
+515,Ekonomika preduzeća,2,2,0,0.00,4,2,Zimski,Inženjerski menadžment
+516,Razvojni procesi u preduzeću,3,0,2,1.00,6,2,Letnji,Inženjerski menadžment
+517,Industrijski marketing,2,3,0,0.00,5,2,Letnji,Inženjerski menadžment
+518,Teorija odlučivanja,2,2,0,0.00,5,2,Letnji,Inženjerski menadžment
+519,Elektronsko poslovanje,2,0,3,0.00,5,2,Letnji,Inženjerski menadžment
+520,Menadžment ljudskih resursa,3,2,0,0.00,5,2,Letnji,Inženjerski menadžment
+521,Upravljanje finansijama,2,1,1,0.00,4,2,Letnji,Inženjerski menadžment
+522,Proizvodni i uslužni sistemi,3,0,3,0.00,6,3,Zimski,Inženjerski menadžment
+523,Informacioni i komunikacioni sistemi,3,0,3,0.00,6,3,Zimski,Inženjerski menadžment
+524,Integralna sistemska podrška - logistika,2,2,0,0.00,5,3,Zimski,Inženjerski menadžment
+525,Poslovno pravo,3,2,0,0.00,5,3,Zimski,Inženjerski menadžment
+526,Upravljanje rizicima i osiguranje,2,0,2,0.00,4,3,Zimski,Inženjerski menadžment
+527,Osnove upravljanja projektima,2,0,2,0.00,4,3,Zimski,Inženjerski menadžment
+528,Algebra,4,2,0,2.00,6,1,Zimski,Inženjerstvo informacionih sistema
+529,Uvod u inženjerstvo informacionih sistema,2,0,3,0.00,6,1,Zimski,Inženjerstvo informacionih sistema
+530,Osnove sistemskog inženjerstva,2,2,0,0.00,4,1,Zimski,Inženjerstvo informacionih sistema
+531,Uvod u mikroprocesorske sisteme,2,0,3,0.00,6,1,Zimski,Inženjerstvo informacionih sistema
+532,Uvod u programiranje,2,0,3,0.00,6,1,Zimski,Inženjerstvo informacionih sistema
+533,Izborni predmet OAS IIS 1,2,0,0,0.00,2,1,Zimski,Inženjerstvo informacionih sistema
+534,Matematička analiza,3,3,0,2.00,6,1,Letnji,Inženjerstvo informacionih sistema
+535,Objektno orijentisane informacione tehnologije,2,0,3,0.00,6,1,Letnji,Inženjerstvo informacionih sistema
+536,Osnove inženjerstva tehničkih sistema,2,0,3,0.00,6,1,Letnji,Inženjerstvo informacionih sistema
+537,Društveni aspekti informacionih sistema,2,0,0,1.00,3,1,Letnji,Inženjerstvo informacionih sistema
+538,Osnove organizacionih sistema,2,3,0,0.00,6,1,Letnji,Inženjerstvo informacionih sistema
+539,Izborni predmet OAS IIS 2,2-3,0,0,0.00,3,1,Letnji,Inženjerstvo informacionih sistema
+540,Kombinatorika i teorija grafova,3,3,0,0.00,6,2,Zimski,Inženjerstvo informacionih sistema
+541,Osnovi ekonomije za inženjere,2,0,0,1.00,3,2,Zimski,Inženjerstvo informacionih sistema
+542,Arhitektura računara i operativni sistemi,2,0,3,0.00,6,2,Zimski,Inženjerstvo informacionih sistema
+543,Algoritmi i strukture podataka,2,0,2,1.00,5,2,Zimski,Inženjerstvo informacionih sistema
+544,Poslovni informacioni sistemi,2,0,3,0.00,6,2,Zimski,Inženjerstvo informacionih sistema
+545,Osnove organizacionog ponašanja,2,2,0,0.00,4,2,Zimski,Inženjerstvo informacionih sistema
+546,Verovatnoća i statistika,3,1,2,0.00,6,2,Letnji,Inženjerstvo informacionih sistema
+547,Projektovanje informacionih sistema,3,0,2,0.00,5,2,Letnji,Inženjerstvo informacionih sistema
+548,Veb orijentisane tehnologije i sistemi,2,0,3,0.00,5,2,Letnji,Inženjerstvo informacionih sistema
+549,Analiza i modeliranje poslovnih procesa,2,0,2,0.00,4,2,Letnji,Inženjerstvo informacionih sistema
+550,Osnove testiranja softvera,2,0,2,1.00,5,2,Letnji,Inženjerstvo informacionih sistema
+551,Arhitektura informacionih sistema i računarske mreže,2,0,2,1.00,5,2,Letnji,Inženjerstvo informacionih sistema
+552,Metode i tehnike upravljanja projektima,2,0,2,0.00,4,3,Zimski,Inženjerstvo informacionih sistema
+553,Projektovanje baza podataka,3,0,3,0.00,5,3,Zimski,Inženjerstvo informacionih sistema
+554,Računarom podržano projektovanje proizvoda (CAD/CAE),3,0,2,1.00,6,3,Zimski,Inženjerstvo informacionih sistema
+555,Mobilne informacione tehnologije,2,0,2,1.00,5,3,Zimski,Inženjerstvo informacionih sistema
+556,Sistem menadžmenta kvalitetom,2,2,0,0.00,4,3,Zimski,Inženjerstvo informacionih sistema
+557,Dizajnerski obrasci,2,0,2,1.00,6,3,Zimski,Inženjerstvo informacionih sistema
+558,Osnove sistema poslovne inteligencije,2,0,2,1.00,5,3,Letnji,Inženjerstvo informacionih sistema
+559,Sistemi za podršku planiranju poslovnih resursa,2,0,3,0.00,6,3,Letnji,Inženjerstvo informacionih sistema
+560,Sistemi baza podataka,2,0,3,0.00,5,3,Letnji,Inženjerstvo informacionih sistema
+561,Razvoj višeslojnih aplikacija,2,0,3,0.00,5,3,Letnji,Inženjerstvo informacionih sistema
+562,Inovacije i preduzetništvo u visokotehnološkim preduzećima,3,0,0,1.00,4,3,Letnji,Inženjerstvo informacionih sistema
+563,Izborni predmet OAS IIS 3,2,0,2,0.00,5,3,Letnji,Inženjerstvo informacionih sistema
+564,Bezbednost i sigurnost informacionih sistema,3,0,3,0.00,5,4,Zimski,Inženjerstvo informacionih sistema
+565,Izborni predmet OAS IIS 4,2,0,2,0.00,5,4,Zimski,Inženjerstvo informacionih sistema
+566,Izborni predmet OAS IIS 5,2,0,2,0.00,5,4,Zimski,Inženjerstvo informacionih sistema
+567,Izborni predmet OAS IIS 6,2,0,2,0.00,6,4,Zimski,Inženjerstvo informacionih sistema
+568,Izborni predmet OAS IIS 7,2,0,2,0.00,5,4,Zimski,Inženjerstvo informacionih sistema
+569,Stručna praksa - OAS Inž.inf.sist.,0,0,0,6.00,4,4,Zimski,Inženjerstvo informacionih sistema
+570,Servisno orijentisane arhitekture sistema,3,0,3,0.00,6,4,Letnji,Inženjerstvo informacionih sistema
+571,Izborni predmet OAS IIS 8,3,0,2,0.00,5,4,Letnji,Inženjerstvo informacionih sistema
+572,Izborni predmet OAS IIS 9,3,0,3,0.00,6,4,Letnji,Inženjerstvo informacionih sistema
+573,Izborni predmet OAS IIS 10,2,0,2,0.00,5,4,Letnji,Inženjerstvo informacionih sistema
+574,Diplomski rad - istraživački rad,0,0,0,0.00,4,4,Letnji,Inženjerstvo informacionih sistema
+575,Diplomski rad - izrada i odbrana,0,0,0,4.00,4,4,Letnji,Inženjerstvo informacionih sistema
+576,Osnove upravljanja rizikom od katastrofalnih događaja i požara,4,2,0,0.00,7,1,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+577,Hemijski fenomeni u inženjerstvu,3,0,3,0.00,6,1,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+578,Tehnička fizika,2,0,2,0.00,4,1,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+579,Matematika 1,3,3,0,0.00,6,1,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+580,Osnove informacionih tehnologija,2,0,3,0.00,6,1,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+581,Matematika 2,3,3,0,0.00,6,1,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+582,Otpornost društva na hazarde,3,2,0,0.00,5,1,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+583,Osnove projektovanja i izrade tehničke dokumentacije,4,1,2,0.00,7,1,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+584,Uvod u elektrotehniku,3,3,0,0.00,6,1,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+585,Građevinski materijali i konstrukcije,4,2,0,0.00,7,1,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+586,Uvod u mašinstvo,3,2,0,0.00,8,2,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+587,Osnovni principi osiguranja,3,2,0,0.00,5,2,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+588,Statističke metode,2,2,1,0.00,6,2,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+589,Klimatologija,2,2,0,0.00,4,2,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+590,Odabrana poglavlja iz psihologije,3,2,0,0.00,4,2,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+591,Izborni predmet 1,2,0,0,0.00,2,2,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+592,Hazardi,3,2,0,0.00,5,2,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+593,Uređaji i sistemi u zaštiti od požara,3,3,0,0.00,5,2,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+594,Upravljanje rizikom i održivi razvoj naselja,3,3,0,0.00,7,2,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+595,Rizici pri manipulisanju opasnim materijama,2,2,0,0.00,6,2,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+596,Primenjene informacione tehnologije,2,0,4,0.00,8,2,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+597,Osnovi termodinamike sa prenosom toplote,2,2,0,0.00,5,3,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+598,Elementi zgrada i instalacije,2,2,0,0.00,6,3,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+599,Modelovanje i simulacija u upravljanju rizikom,3,0,3,0.00,6,3,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+600,Institucionalni okviri upravljanja rizicima,2,2,0,0.00,6,3,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+601,Aspekti bezbednosti u izgrađenom okruženju,4,1,2,0.00,7,3,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+602,"Sistemi za detekciju, dojavu i upozorenje",2,2,0,0.00,5,3,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+603,Izborni predmet 2,2,1-2,0-1,0.00,6,3,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+604,Izborni predmet 3 -  Strani jezik,2-3,0,0,0.00,3,3,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+605,Izborni predmet 4,2,1,2,0.00,6,3,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+606,Izborni predmet 5,2,0-2,0-2,0.00,5,3,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+607,Izborni predmet 6,2-3,2,0,0.00,5,3,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+608,Elementi ciklusa katastrofalnih događaja,3,2,0,0.00,5,4,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+609,Mere kod odbrane od poplava,2,2,0,0.00,5,4,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+610,Izborni predmet 7,2,1-2,0-1,0.00,5,4,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+611,Izborni predmet 8,2,0-2,0-2,0.00,5,4,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+612,Izborni predmet 9,3,1-3,0-2,0.00,6,4,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+613,Stručna praksa,0,0,0,6.00,4,4,Zimski,Upravljanje rizikom od katastrofalnih događaja i požara
+614,Metode analize rizika,3,3,0,0.00,5,4,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+615,Uticaj zemljotresa na građevinske objekte,2,2,0,0.00,5,4,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+616,Izborni predmet 10,3,2,0,0.00,5,4,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+617,Izborni predmet 11,3,0-2,0-2,0.00,5,4,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+618,Diplomski rad - istraživački rad,0,0,0,0.00,5,4,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+619,Diplomski rad - izrada i odbrana,0,0,0,3.00,5,4,Letnji,Upravljanje rizikom od katastrofalnih događaja i požara
+620,Uvod u inženjerstvo zaštite životne sredine,3,3,0,0.00,6,1,Zimski,Inženjerstvo zaštite životne sredine
+621,Hemijski fenomeni u inženjerstvu zaštite životne sredine,2,0,2,0.00,6,1,Zimski,Inženjerstvo zaštite životne sredine
+622,Odabrana poglavlja iz fizike 1,3,0,3,0.00,6,1,Zimski,Inženjerstvo zaštite životne sredine
+623,Matematika 1,3,3,0,0.00,6,1,Zimski,Inženjerstvo zaštite životne sredine
+624,"Elektrotehnika, okolina i zaštita",3,1,2,0.00,6,1,Zimski,Inženjerstvo zaštite životne sredine
+625,Energija i okruženje,3,3,0,0.00,5,1,Letnji,Inženjerstvo zaštite životne sredine
+626,Matematika 2,3,3,0,0.00,6,1,Letnji,Inženjerstvo zaštite životne sredine
+627,Osnove mehanike,3,2,0,0.00,5,1,Letnji,Inženjerstvo zaštite životne sredine
+628,Hemijski principi u inženjerstvu zaštite životne sredine,3,0,3,0.00,8,1,Letnji,Inženjerstvo zaštite životne sredine
+629,Inženjerske grafičke komunikacije,3,2,1,0.00,6,1,Letnji,Inženjerstvo zaštite životne sredine
+630,Osnove računarskih tehnologija,2,0,3,0.00,6,2,Zimski,Inženjerstvo zaštite životne sredine
+631,Preventivne mere u oblasti bezbednosti i zdravlja na radu,3,3,0,0.00,6,2,Zimski,Inženjerstvo zaštite životne sredine
+632,Statističke metode,2,2,1,0.00,6,2,Zimski,Inženjerstvo zaštite životne sredine
+633,Osnove zaštite voda,3,3,0,0.00,4,2,Zimski,Inženjerstvo zaštite životne sredine
+634,Održivo korišćenje prirodnih resursa i sistem zaštite životne sredine,3,3,0,0.00,6,2,Zimski,Inženjerstvo zaštite životne sredine
+635,Izborna pozicija 1,2,0,0,0.00,2,2,Zimski,Inženjerstvo zaštite životne sredine
+636,Alternativna energetika,3,3,0,0.00,6,2,Letnji,Inženjerstvo zaštite životne sredine
+637,Mašinstvo u inženjerstvu zaštite životne i radne sredine,3,1,2,0.00,6,2,Letnji,Inženjerstvo zaštite životne sredine
+638,Biohemijski i mikrobiološki principi,3,0,3,0.00,6,2,Letnji,Inženjerstvo zaštite životne sredine
+639,Monitoring životne sredine,3,0,3,0.00,6,2,Letnji,Inženjerstvo zaštite životne sredine
+640,Izborna pozicija 2,2,0,0,0.00,2,2,Letnji,Inženjerstvo zaštite životne sredine
+641,Osnovni principi upravljanja vodama,2,2,0,0.00,4,2,Letnji,Inženjerstvo zaštite životne sredine
+642,Uvod u termodinamiku,2,2,0,0.00,5,3,Zimski,Inženjerstvo zaštite životne sredine
+643,Uvod u mehaniku fluida,2,2,0,0.00,5,3,Zimski,Inženjerstvo zaštite životne sredine
+644,Izborni predmet 1,3,1-3,0-2,0.00,6,3,Zimski,Inženjerstvo zaštite životne sredine
+645,Analiza podataka o stanju okoline,3,0,3,0.00,6,3,Zimski,Inženjerstvo zaštite životne sredine
+646,Inženjerstvo zaštite životne sredine u biosistemima,3,0,3,0.00,6,3,Zimski,Inženjerstvo zaštite životne sredine
+647,Izborna pozicija 3,2,0,0,0.00,2,3,Zimski,Inženjerstvo zaštite životne sredine
+648,Modelovanje i simulacija u inženjerstvu zaštite životne sredine,3,3,0,0.00,7,3,Letnji,Inženjerstvo zaštite životne sredine
+649,Upravljanje čvrstim otpadom,3,0,3,0.00,7,3,Letnji,Inženjerstvo zaštite životne sredine
+650,Izborni predmet 2,3,0-3,0-3,0.00,7,3,Letnji,Inženjerstvo zaštite životne sredine
+651,Izborna pozicija 4,2,0,0,0.00,2,3,Letnji,Inženjerstvo zaštite životne sredine
+652,Osnove eksperimenta u zaštiti životne sredine,3,0,3,0.00,7,3,Letnji,Inženjerstvo zaštite životne sredine
+653,Projektovanje i planiranje u zaštiti životne sredine,3,3,0,0.00,7,4,Zimski,Inženjerstvo zaštite životne sredine
+654,Izborni predmet 1,3,0-3,0-3,0.00,7,4,Zimski,Inženjerstvo zaštite životne sredine
+655,Stručna praksa,0,0,0,6.00,4,4,Zimski,Inženjerstvo zaštite životne sredine
+656,Rasprostiranje zagađenja u životnoj sredini,3,3,0,0.00,6,4,Zimski,Inženjerstvo zaštite životne sredine
+657,Izborni predmet 2,3,0-3,0-3,0.00,6,4,Zimski,Inženjerstvo zaštite životne sredine
+658,Karakterizacija reciklabilnih materijala,3,0,2,0.00,4,4,Letnji,Inženjerstvo zaštite životne sredine
+659,Izborni predmet 3,3,0-3,0-3,0.00,6,4,Letnji,Inženjerstvo zaštite životne sredine
+660,Izborni predmet 4,2,2,0,0.00,5,4,Letnji,Inženjerstvo zaštite životne sredine
+661,Industrijska ekologija i zagađenje zemljišta,3,0,2,0.00,5,4,Letnji,Inženjerstvo zaštite životne sredine
+662,Diplomski rad - istraživački rad,0,0,0,0.00,4,4,Letnji,Inženjerstvo zaštite životne sredine
+663,Diplomski rad - izrada i odbrana,0,0,0,5.00,6,4,Letnji,Inženjerstvo zaštite životne sredine
+664,Matematika 1,3,3,0,0.00,7,1,Zimski,Energetika i procesna tehnika
+665,Mehanika 1,2,2,0,0.00,5,1,Zimski,Energetika i procesna tehnika
+666,Mašinski materijali,4,0,3,1.00,8,1,Zimski,Energetika i procesna tehnika
+667,Osnove računarstva,0,0,2,0.00,2,1,Zimski,Energetika i procesna tehnika
+668,Hemijski fenomeni u mašinstvu,2,0,2,0.00,4,1,Zimski,Energetika i procesna tehnika
+669,Tehnička fizika,2,0,2,0.00,4,1,Zimski,Energetika i procesna tehnika
+670,Matematika 2,3,3,0,0.00,7,1,Letnji,Energetika i procesna tehnika
+671,Inženjerske grafičke komunikacije,4,2,2,0.00,9,1,Letnji,Energetika i procesna tehnika
+672,Izborni predmet 1,3,1-2,0-1,1.00,7,1,Letnji,Energetika i procesna tehnika
+673,Programiranje i inženjerski korisnički programi,3,0,3,0.00,5,1,Letnji,Energetika i procesna tehnika
+674,Izborni strani jezik,2,0,0,0.00,2,1,Letnji,Energetika i procesna tehnika
+675,Osnove mašinskih elemenata,2,2,0,0.00,5,2,Zimski,Energetika i procesna tehnika
+676,Osnove otpornosti materijala,3,3,0,0.00,6,2,Zimski,Energetika i procesna tehnika
+677,Matematika 3,3,3,0,0.00,8,2,Zimski,Energetika i procesna tehnika
+678,Kinematika i dinamika,3,3,0,0.00,5,2,Zimski,Energetika i procesna tehnika
+679,Tehnologija mašinogradnje,3,0,3,0.00,6,2,Zimski,Energetika i procesna tehnika
+680,Osnovi termodinamike,2,2,0,0.00,5,2,Letnji,Energetika i procesna tehnika
+681,Osnovi mehanike fluida,2,1,1,0.00,5,2,Letnji,Energetika i procesna tehnika
+682,Merenje i regulisanje,2,1,1,0.00,5,2,Letnji,Energetika i procesna tehnika
+683,Obnovljivi izvori energije,3,2,0,0.00,6,2,Letnji,Energetika i procesna tehnika
+684,Održivi razvoj u energetici i procesnoj tehnici,3,0,3,0.00,5,2,Letnji,Energetika i procesna tehnika
+685,Termoenergetika i transformacije energije,3,2,0,0.00,4,2,Letnji,Energetika i procesna tehnika
+686,Termodinamika,3,3,0,0.00,6,3,Zimski,Energetika i procesna tehnika
+687,Mehanika fluida 1,3,2,1,0.00,6,3,Zimski,Energetika i procesna tehnika
+688,Osnovi procesne tehnike,3,2,1,0.00,6,3,Zimski,Energetika i procesna tehnika
+689,Goriva i sagorevanje,3,1,2,0.00,6,3,Zimski,Energetika i procesna tehnika
+690,Hidraulika i pneumatika,3,0,3,0.00,6,3,Zimski,Energetika i procesna tehnika
+691,Grejanje i ventilacija,3,0,3,0.00,6,3,Letnji,Energetika i procesna tehnika
+692,Inženjering energetskih sistema,2,2,0,0.00,5,3,Letnji,Energetika i procesna tehnika
+693,Osnove prenosa toplote,3,3,0,0.00,6,3,Letnji,Energetika i procesna tehnika
+694,Pumpe i ventilatori,3,2,1,1.00,6,3,Letnji,Energetika i procesna tehnika
+695,Stručna praksa 1,0,0,0,3.00,2,3,Letnji,Energetika i procesna tehnika
+696,Automatsko upravljanje u energetici,2,0,2,0.00,5,3,Letnji,Energetika i procesna tehnika
+697,Kotlovska postrojenja,3,1,2,0.00,6,4,Zimski,Energetika i procesna tehnika
+698,Izborni predmet 2,2,2,0,0.00,5,4,Zimski,Energetika i procesna tehnika
+699,Izborni predmet 3,3,0-1,1-2,0.00,5,4,Zimski,Energetika i procesna tehnika
+700,Izborni predmet 4,3-4,2-3,1,0.00,7,4,Zimski,Energetika i procesna tehnika
+701,Izborni predmet 5,2-3,0,2-3,0.00,5,4,Zimski,Energetika i procesna tehnika
+702,Stručna praksa 2,0,0,0,3.00,2,4,Zimski,Energetika i procesna tehnika
+703,Izborni predmet 6,3,2-3,0-1,0.00,6,4,Letnji,Energetika i procesna tehnika
+704,Izborni predmet 7,3,0-3,0-3,0.00,6,4,Letnji,Energetika i procesna tehnika
+705,Izborni predmet 8,2,2,1,0.00,5,4,Letnji,Energetika i procesna tehnika
+706,Izborni predmet 9,3,0-2,1-3,0.00,6,4,Letnji,Energetika i procesna tehnika
+707,Završni rad - istraživački rad,0,0,0,0.00,4,4,Letnji,Energetika i procesna tehnika
+708,Završni rad - izrada i odbrana,0,0,0,3.00,3,4,Letnji,Energetika i procesna tehnika
+709,Matematika 1,3,3,0,0.00,7,1,Zimski,Tehnička mehanika i dizajn u tehnici
+710,Mehanika 1,2,2,0,0.00,5,1,Zimski,Tehnička mehanika i dizajn u tehnici
+711,Mašinski materijali,4,0,3,1.00,8,1,Zimski,Tehnička mehanika i dizajn u tehnici
+712,Softverski praktikum,0,0,3,0.00,3,1,Zimski,Tehnička mehanika i dizajn u tehnici
+713,Tehnička fizika,2,0,2,0.00,4,1,Zimski,Tehnička mehanika i dizajn u tehnici
+714,Izborni predmet 1,2,0,0,0.00,3,1,Zimski,Tehnička mehanika i dizajn u tehnici
+715,Matematika 2,3,3,0,0.00,7,1,Letnji,Tehnička mehanika i dizajn u tehnici
+716,Mehanika 2,2,2,0,0.00,5,1,Letnji,Tehnička mehanika i dizajn u tehnici
+717,Inženjerske grafičke komunikacije,4,2,2,0.00,9,1,Letnji,Tehnička mehanika i dizajn u tehnici
+718,Osnove programiranja,4,0,4,0.00,7,1,Letnji,Tehnička mehanika i dizajn u tehnici
+719,Izborni strani jezik 1,2,0,0,0.00,2,1,Letnji,Tehnička mehanika i dizajn u tehnici
+720,Mehanika 3,3,3,0,0.00,7,2,Zimski,Tehnička mehanika i dizajn u tehnici
+721,Mašinski elementi,4,4,0,0.00,8,2,Zimski,Tehnička mehanika i dizajn u tehnici
+722,Otpornost materijala,4,4,0,0.00,9,2,Zimski,Tehnička mehanika i dizajn u tehnici
+723,Računarske metode u inženjerstvu,2,3,0,0.00,5,2,Zimski,Tehnička mehanika i dizajn u tehnici
+724,Stručna praksa 1,0,0,0,3.00,2,2,Zimski,Tehnička mehanika i dizajn u tehnici
+725,Osnovi mehanike fluida,2,1,1,0.00,5,2,Letnji,Tehnička mehanika i dizajn u tehnici
+726,Teorija oscilacija,2,2,0,0.00,5,2,Letnji,Tehnička mehanika i dizajn u tehnici
+727,Osnove mašinskih tehnologija 1,2,0,2,0.00,4,2,Letnji,Tehnička mehanika i dizajn u tehnici
+728,Osnovi termodinamike,2,2,0,0.00,5,2,Letnji,Tehnička mehanika i dizajn u tehnici
+729,Kompjutersko projektovanje,2,0,2,2.00,5,2,Letnji,Tehnička mehanika i dizajn u tehnici
+730,Teorija mehanizama i mašina,2,1,1,0.00,4,2,Letnji,Tehnička mehanika i dizajn u tehnici
+731,Izborni strani jezik 2,2,0,0,0.00,2,2,Letnji,Tehnička mehanika i dizajn u tehnici
+732,Teorija elastičnosti,2,2,0,0.00,5,3,Zimski,Tehnička mehanika i dizajn u tehnici
+733,Sistemi automatskog upravljanja,4,4,0,0.00,8,3,Zimski,Tehnička mehanika i dizajn u tehnici
+734,Praktikum CAD/CAE,1,1,1,1.00,5,3,Zimski,Tehnička mehanika i dizajn u tehnici
+735,Kompjuterski podržana kinematika i dinamika mehaničkih sistema,2,0,2,0.00,3,3,Zimski,Tehnička mehanika i dizajn u tehnici
+736,Matematika 3,2,2,0,0.00,5,3,Zimski,Tehnička mehanika i dizajn u tehnici
+737,Izborni predmet 2,2,1,1,0.00,5,3,Zimski,Tehnička mehanika i dizajn u tehnici
+738,Računska mehanika kontinuuma,3,1,1,0.00,5,3,Letnji,Tehnička mehanika i dizajn u tehnici
+739,Dinamika i stabilnost konstrukcija,2,2,0,0.00,4,3,Letnji,Tehnička mehanika i dizajn u tehnici
+740,Metode konačnih elemenata,3,0,2,0.00,5,3,Letnji,Tehnička mehanika i dizajn u tehnici
+741,Osnove mašinskih tehnologija 2,2,0,2,0.00,4,3,Letnji,Tehnička mehanika i dizajn u tehnici
+742,Izborni predmet 3,2,0-1,1-2,0.00,4,3,Letnji,Tehnička mehanika i dizajn u tehnici
+743,Izborni predmet 4,3-4,2-3,0,0.00-1.00,7,3,Letnji,Tehnička mehanika i dizajn u tehnici
+744,"Vibracije, buka i dizajn",2,2,0,0.00,6,4,Zimski,Tehnička mehanika i dizajn u tehnici
+745,Računarske simulacije dinamičkih procesa,2,0,3,0.00,6,4,Zimski,Tehnička mehanika i dizajn u tehnici
+746,Stručna praksa 2,0,0,0,3.00,2,4,Zimski,Tehnička mehanika i dizajn u tehnici
+747,Izborni predmet 5,2-3,0-2,0-2,0.00,4,4,Zimski,Tehnička mehanika i dizajn u tehnici
+748,Mehatronika,4,0,4,0.00,7,4,Zimski,Tehnička mehanika i dizajn u tehnici
+749,Izborni predmet 6,2,0-1,1-2,0.00,4,4,Zimski,Tehnička mehanika i dizajn u tehnici
+750,Industrijska robotika,4,0,4,0.00,8,4,Letnji,Tehnička mehanika i dizajn u tehnici
+751,Izborni predmet 7,3,0-3,0-3,0.00-1.00,6,4,Letnji,Tehnička mehanika i dizajn u tehnici
+752,Izborni predmet 8,3,0-3,0-3,0.00,6,4,Letnji,Tehnička mehanika i dizajn u tehnici
+753,Diplomski rad - istraživački rad,0,0,0,0.00,6,4,Letnji,Tehnička mehanika i dizajn u tehnici
+754,Diplomski rad - izrada i odbrana,0,0,0,4.00,5,4,Letnji,Tehnička mehanika i dizajn u tehnici
+755,Matematika 1,3,2,0,1.00,6,1,Zimski,Poštanski saobraćaj i telekomunikacije
+756,Nacrtna geometrija i tehničko crtanje,3,2,1,0.00,6,1,Zimski,Poštanski saobraćaj i telekomunikacije
+757,Fizika,3,1,1,1.00,6,1,Zimski,Poštanski saobraćaj i telekomunikacije
+758,Poznavanje robe u transportu,2,1,0,1.00,4,1,Zimski,Poštanski saobraćaj i telekomunikacije
+759,Osnovi informatike,2,0,2,0.00,5,1,Zimski,Poštanski saobraćaj i telekomunikacije
+760,Sociološki aspekti tehničkog razvoja,2,0,0,0.00,3,1,Zimski,Poštanski saobraćaj i telekomunikacije
+761,Matematika 2,3,2,0,1.00,5,1,Letnji,Poštanski saobraćaj i telekomunikacije
+762,Urbanizam i prostorno planiranje,3,2,0,0.00,5,1,Letnji,Poštanski saobraćaj i telekomunikacije
+763,Transportno-logističke osobine robe,3,1,0,1.00,4,1,Letnji,Poštanski saobraćaj i telekomunikacije
+764,Ekonomika saobraćaja,2,4,0,0.00,7,1,Letnji,Poštanski saobraćaj i telekomunikacije
+765,Izborna pozicija 1,2,0,0,0.00,2,1,Letnji,Poštanski saobraćaj i telekomunikacije
+766,Elektrotehnika i električne mašine,3,2,0,1.00,7,1,Letnji,Poštanski saobraćaj i telekomunikacije
+767,Špedicija,3,1,1,1.00,6,2,Zimski,Poštanski saobraćaj i telekomunikacije
+768,Matematička statistika,4,3,0,1.00,8,2,Zimski,Poštanski saobraćaj i telekomunikacije
+769,Analiza telekomunikacionih signala,2,1,1,0.00,5,2,Zimski,Poštanski saobraćaj i telekomunikacije
+770,Izborni predmet 2,2,0,0,0.00,2,2,Zimski,Poštanski saobraćaj i telekomunikacije
+771,Izborni predmet 1,2,0-2,0-2,0.00,5,2,Zimski,Poštanski saobraćaj i telekomunikacije
+772,Multimedijalne komunikacije,2,0,2,0.00,4,2,Zimski,Poštanski saobraćaj i telekomunikacije
+773,Programiranje i programski jezici,2,0,2,0.00,5,2,Letnji,Poštanski saobraćaj i telekomunikacije
+774,Organizacija vodnog saobraćaja,3,2,0,1.00,5,2,Letnji,Poštanski saobraćaj i telekomunikacije
+775,Operaciona istraživanja,3,2,0,0.00,5,2,Letnji,Poštanski saobraćaj i telekomunikacije
+776,Logistika pretovara,3,0,1,2.00,6,2,Letnji,Poštanski saobraćaj i telekomunikacije
+777,Analiza telekomunikacionih sistema,2,1,1,0.00,5,2,Letnji,Poštanski saobraćaj i telekomunikacije
+778,Osnovi logistike,3,1,0,1.00,4,2,Letnji,Poštanski saobraćaj i telekomunikacije
+779,Poštanski saobraćaj,2,1,0,2.00,5,3,Zimski,Poštanski saobraćaj i telekomunikacije
+780,Tehnologija železničkog saobraćaja,3,2,0,0.00,5,3,Zimski,Poštanski saobraćaj i telekomunikacije
+781,Principi digitalnih komunikacija,2,2,1,0.00,5,3,Zimski,Poštanski saobraćaj i telekomunikacije
+782,Upravljanje projektima,2,0,1,2.00,4,3,Zimski,Poštanski saobraćaj i telekomunikacije
+783,Izborni predmet 2,3,0-3,0-3,0.00,6,3,Zimski,Poštanski saobraćaj i telekomunikacije
+784,Izborni predmet 3,2,2,0,0.00,6,3,Zimski,Poštanski saobraćaj i telekomunikacije
+785,Poštanske usluge i mreža,3,3,0,0.00,6,3,Letnji,Poštanski saobraćaj i telekomunikacije
+786,Izborni predmet 4,2,1-2,0,0.00-1.00,5,3,Letnji,Poštanski saobraćaj i telekomunikacije
+787,Principi digitalnih modulacija,2,2,0,0.00,5,3,Letnji,Poštanski saobraćaj i telekomunikacije
+788,Izborni predmet 5,3,1-2,0-1,0.00,5,3,Letnji,Poštanski saobraćaj i telekomunikacije
+789,Organizacija i menadžment u PST,2,2,0,0.00,5,3,Letnji,Poštanski saobraćaj i telekomunikacije
+790,Stručna praksa,0,0,0,6.00,3,3,Letnji,Poštanski saobraćaj i telekomunikacije
+791,Osnovi radio i mobilnih komunikacija,3,2,1,0.00,5,4,Zimski,Poštanski saobraćaj i telekomunikacije
+792,Finansijsko poslovanje u poštanskom saobraćaju,2,2,0,0.00,5,4,Zimski,Poštanski saobraćaj i telekomunikacije
+793,Automatizacija u poštanskom saobraćaju,2,2,0,2.00,6,4,Zimski,Poštanski saobraćaj i telekomunikacije
+794,Telekomunikacione mreže i saobraćaj,2,2,0,2.00,6,4,Zimski,Poštanski saobraćaj i telekomunikacije
+795,Izborni predmet 6,2,0-2,0-2,0.00,4,4,Zimski,Poštanski saobraćaj i telekomunikacije
+796,Izborni stručni strani jezik,2,0,0,0.00,2,4,Zimski,Poštanski saobraćaj i telekomunikacije
+797,Računarske komunikacije,3,0,3,0.00,6,4,Letnji,Poštanski saobraćaj i telekomunikacije
+798,Projektovanje komunikacionih sistema,3,0,2,0.00,6,4,Letnji,Poštanski saobraćaj i telekomunikacije
+799,Eksploatacija telekomunikacionih mreža,2,0,2,0.00,4,4,Letnji,Poštanski saobraćaj i telekomunikacije
+800,Izborni predmet 7,3,0,2,0.00,6,4,Letnji,Poštanski saobraćaj i telekomunikacije
+801,Diplomski rad - istraživački rad,0,0,0,0.00,4,4,Letnji,Poštanski saobraćaj i telekomunikacije
+802,Diplomski rad - izrada i odbrana,0,0,0,5.00,6,4,Letnji,Poštanski saobraćaj i telekomunikacije
+803,Matematika 1,3,2,0,1.00,6,1,Zimski,Saobraćaj i transport
+804,Nacrtna geometrija i tehničko crtanje,3,2,1,0.00,6,1,Zimski,Saobraćaj i transport
+805,Fizika,3,1,1,1.00,6,1,Zimski,Saobraćaj i transport
+806,Poznavanje robe u transportu,2,1,0,1.00,4,1,Zimski,Saobraćaj i transport
+807,Osnove saobraćaja,3,2,0,1.00,5,1,Zimski,Saobraćaj i transport
+808,Izborni predmet 1,2,0,0,0.00,3,1,Zimski,Saobraćaj i transport
+809,Mehanika 1 - osnove,3,3,0,0.00,7,1,Letnji,Saobraćaj i transport
+810,Matematika 2,3,2,0,1.00,5,1,Letnji,Saobraćaj i transport
+811,Urbanizam i prostorno planiranje,3,2,0,0.00,5,1,Letnji,Saobraćaj i transport
+812,Transportno-logističke osobine robe,3,1,0,1.00,4,1,Letnji,Saobraćaj i transport
+813,Logistika pretovara,2,1,1,0.00,5,1,Letnji,Saobraćaj i transport
+814,Elektrotehnika i električne mašine,2,1,0,1.00,4,1,Letnji,Saobraćaj i transport
+815,Špedicija,3,1,1,1.00,6,2,Zimski,Saobraćaj i transport
+816,Matematička statistika,4,3,0,1.00,8,2,Zimski,Saobraćaj i transport
+817,Tehnologija vodnog saobraćaja,3,1,0,1.00,4,2,Zimski,Saobraćaj i transport
+818,Osiguranje u saobraćaju i transportu,2,2,0,0.00,5,2,Zimski,Saobraćaj i transport
+819,Izborni predmet 3,3,1,1,0.00,5,2,Zimski,Saobraćaj i transport
+820,Izborni predmet 2,2,0,0,0.00,2,2,Zimski,Saobraćaj i transport
+821,Izborni predmet 4,3,2,0,1.00,6,2,Letnji,Saobraćaj i transport
+822,Informacione tehnologije u saobraćaju,2,0,2,0.00,5,2,Letnji,Saobraćaj i transport
+823,Propisi u oblasti saobraćaja,2,1,0,1.00,5,2,Letnji,Saobraćaj i transport
+824,Operaciona istraživanja,3,2,0,0.00,5,2,Letnji,Saobraćaj i transport
+825,Osnovi logistike,3,1,0,1.00,4,2,Letnji,Saobraćaj i transport
+826,Izborni predmet 5,3,2,0,1.00,5,2,Letnji,Saobraćaj i transport
+827,Tehnologija železničkog saobraćaja,3,2,0,0.00,5,3,Zimski,Saobraćaj i transport
+828,Metode istraživanja indikatora u saobraćaju,3,1,1,2.00,6,3,Zimski,Saobraćaj i transport
+829,Drumske i gradske saobraćajnice i čvorišta,3,2,0,1.00,7,3,Zimski,Saobraćaj i transport
+830,Bezbednost saobraćaja,3,2,0,1.00,6,3,Zimski,Saobraćaj i transport
+831,Izborni predmet 6,3,3,0,0.00,6,3,Zimski,Saobraćaj i transport
+832,Tehnologija kombinovanog transporta,3,1,1,1.00,6,3,Letnji,Saobraćaj i transport
+833,Teorija saobraćajnog toka,3,1,1,0.00,5,3,Letnji,Saobraćaj i transport
+834,Logistika preduzeća,3,2,0,0.00,5,3,Letnji,Saobraćaj i transport
+835,Izborni predmet 7,3,2,0,0.00,5,3,Letnji,Saobraćaj i transport
+836,Izborni predmet 8,3,2,0,0.00,5,3,Letnji,Saobraćaj i transport
+837,Tehnika bezbednosti i kontrole saobraćaja,2,1,1,0.00,4,3,Letnji,Saobraćaj i transport
+838,Ekspertize saobraćajnih nezgoda,3,1,1,1.00,6,4,Zimski,Saobraćaj i transport
+839,Regulisanje i upravljanje saobraćajem,3,1,1,1.00,6,4,Zimski,Saobraćaj i transport
+840,Parkiranje i javne garaže,2,1,1,0.00,5,4,Zimski,Saobraćaj i transport
+841,Urbani transport putnika,3,1,1,1.00,7,4,Zimski,Saobraćaj i transport
+842,Izborni stručni strani jezik 1,2,0,0,0.00,2,4,Zimski,Saobraćaj i transport
+843,Stručna praksa,0,0,0,6.00,3,4,Zimski,Saobraćaj i transport
+844,Saobraćajni terminali,2,1,1,0.00,4,4,Letnji,Saobraćaj i transport
+845,Tehnologije javnog transporta putnika,2,1,1,0.00,4,4,Letnji,Saobraćaj i transport
+846,Izborni predmet 9,2,1,1,0.00,5,4,Letnji,Saobraćaj i transport
+847,Modeli u planiranju saobraćaja,3,1,1,1.00,5,4,Letnji,Saobraćaj i transport
+848,Kapacitet drumskih saobraćajnica,2,2,1,0.00,5,4,Letnji,Saobraćaj i transport
+849,Diplomski rad - istraživački rad,0,0,0,0.00,4,4,Letnji,Saobraćaj i transport
+850,Diplomski rad - izrada i odbrana,0,0,0,3.00,5,4,Letnji,Saobraćaj i transport
+851,"Uvod u scensku arhitekturu, tehniku i dizajn",3,4,0,1.00,8,1,Zimski,"Scenska arhitektura, tehnika i dizajn"
+852,Uvod u studije arhitekture,2,2,0,1.00,5,1,Zimski,"Scenska arhitektura, tehnika i dizajn"
+853,Uvod u studije tehnike,2,1,0,0.00,4,1,Zimski,"Scenska arhitektura, tehnika i dizajn"
+854,Uvod u studije pozorišta,2,2,0,1.00,5,1,Zimski,"Scenska arhitektura, tehnika i dizajn"
+855,Nacrtna geometrija sa perspektivom 1,2,2,0,0.00,4,1,Zimski,"Scenska arhitektura, tehnika i dizajn"
+856,Uvod u vizuelno istraživanje,1,0,2,1.00,4,1,Zimski,"Scenska arhitektura, tehnika i dizajn"
+857,Uvod u studije scenske arhitekture,3,0,2,1.00,6,1,Letnji,"Scenska arhitektura, tehnika i dizajn"
+858,Uvod u studije scenske tehnike i tehnologije,3,0,2,1.00,6,1,Letnji,"Scenska arhitektura, tehnika i dizajn"
+859,Uvod u studije scenskog dizajna,3,0,2,1.00,6,1,Letnji,"Scenska arhitektura, tehnika i dizajn"
+860,Nacrtna geometrija sa perspektivom 2,2,2,0,0.00,4,1,Letnji,"Scenska arhitektura, tehnika i dizajn"
+861,Vizuelno istraživanje u scenskoj arhitekturi i dizajnu,1,0,2,1.00,4,1,Letnji,"Scenska arhitektura, tehnika i dizajn"
+862,Umetnost u kontekstu 1,2,2,0,0.00,4,1,Letnji,"Scenska arhitektura, tehnika i dizajn"
+863,Arhitektura i tehnologije pozorišta 1,3,0,3,0.00,6,2,Zimski,"Scenska arhitektura, tehnika i dizajn"
+864,Dizajn i tehnika scene 1,3,0,3,0.00,6,2,Zimski,"Scenska arhitektura, tehnika i dizajn"
+865,Tehnike prezentacije prostora u digitalnom okruženju 1,3,0,3,0.00,6,2,Zimski,"Scenska arhitektura, tehnika i dizajn"
+866,Konstrukcijski sistemi u scenskoj arhitekturi,2,2,0,0.00,4,2,Zimski,"Scenska arhitektura, tehnika i dizajn"
+867,Umetnost u kontekstu 2,2,2,0,0.00,4,2,Zimski,"Scenska arhitektura, tehnika i dizajn"
+868,Izborna pozicija 1,1,0,2,1.00,4,2,Zimski,"Scenska arhitektura, tehnika i dizajn"
+869,Arhitektura i tehnologije pozorišta 2,3,0,3,0.00,6,2,Letnji,"Scenska arhitektura, tehnika i dizajn"
+870,Dizajn i tehnika scene 2,3,0,3,0.00,6,2,Letnji,"Scenska arhitektura, tehnika i dizajn"
+871,Tehnike prezentacije prostora u digitalnom okruženju 2,3,0,3,0.00,6,2,Letnji,"Scenska arhitektura, tehnika i dizajn"
+872,"Konstrukcije, materijali i tehnologije u scenskoj arhitekturi i dizajnu",2,2,0,0.00,4,2,Letnji,"Scenska arhitektura, tehnika i dizajn"
+873,Umetnost u kontekstu 3,2,2,0,0.00,4,2,Letnji,"Scenska arhitektura, tehnika i dizajn"
+874,Izborna pozicija 2,2,0,2,0.00,4,2,Letnji,"Scenska arhitektura, tehnika i dizajn"
+875,Arhitektura i tehnologije pozorišta 3,3,0,6,3.00,10,3,Zimski,"Scenska arhitektura, tehnika i dizajn"
+876,Dizajn i tehnika scene 3,3,0,3,0.00,6,3,Zimski,"Scenska arhitektura, tehnika i dizajn"
+877,Izborna pozicija 3,2,0,0,0.00,3,3,Zimski,"Scenska arhitektura, tehnika i dizajn"
+878,Izborna pozicija 4,1,0,1,1.00,3,3,Zimski,"Scenska arhitektura, tehnika i dizajn"
+879,Izborna pozicija 5,1,0,1,1.00,3,3,Zimski,"Scenska arhitektura, tehnika i dizajn"
+880,"Arhitektura, umetnost i kultura modernog doba 1",2,2,0,0.00,5,3,Zimski,"Scenska arhitektura, tehnika i dizajn"
+881,Arhitektura i tehnologije pozorišta 4,3,0,6,3.00,10,3,Letnji,"Scenska arhitektura, tehnika i dizajn"
+882,Dizajn i tehnika scene 4,3,0,3,0.00,6,3,Letnji,"Scenska arhitektura, tehnika i dizajn"
+883,Teorije prostora u umetnosti i kulturi,2,1,0,0.00,3,3,Letnji,"Scenska arhitektura, tehnika i dizajn"
+884,Izborna pozicija 6,2,0,0,0.00,2,3,Letnji,"Scenska arhitektura, tehnika i dizajn"
+885,Izborna pozicija 7,1,0,2,0.00,4,3,Letnji,"Scenska arhitektura, tehnika i dizajn"
+886,"Arhitektura, umetnost i kultura modernog doba 2",2,2,0,0.00,5,3,Letnji,"Scenska arhitektura, tehnika i dizajn"
+887,Izborna pozicija 8,3,0,3,0.00,6,4,Zimski,"Scenska arhitektura, tehnika i dizajn"
+888,Savremena arhitektura,2,2,0,0.00,4,4,Zimski,"Scenska arhitektura, tehnika i dizajn"
+889,Savremena scenska umetnost,2,2,0,0.00,4,4,Zimski,"Scenska arhitektura, tehnika i dizajn"
+890,Savremena vizuelna umetnost,2,2,0,0.00,4,4,Zimski,"Scenska arhitektura, tehnika i dizajn"
+891,Fenomenologija scenske arhitekture i dizajna,2,2,0,0.00,4,4,Zimski,"Scenska arhitektura, tehnika i dizajn"
+892,Izborni predmet 1,2,0,0,0.00,2,4,Zimski,"Scenska arhitektura, tehnika i dizajn"
+893,Stručna praksa,0,0,0,6.00,6,4,Zimski,"Scenska arhitektura, tehnika i dizajn"
+894,Izborna pozicija 9,3,3,3,0.00,9,4,Letnji,"Scenska arhitektura, tehnika i dizajn"
+895,Produkcija projekata u scenskoj arhitekturi i dizajnu,3,0,2,2.00,6,4,Letnji,"Scenska arhitektura, tehnika i dizajn"
+896,Izborna pozicija 10,2,2,0,0.00,6,4,Letnji,"Scenska arhitektura, tehnika i dizajn"
+897,Izborni predmet 2,2,0,0,0.00,2,4,Letnji,"Scenska arhitektura, tehnika i dizajn"
+898,Diplomski rad - istraživački rad,0,0,0,0.00,2,4,Letnji,"Scenska arhitektura, tehnika i dizajn"
+899,Diplomski rad - izrada i odbrana,0,0,0,5.00,5,4,Letnji,"Scenska arhitektura, tehnika i dizajn"
